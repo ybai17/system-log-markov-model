@@ -1,0 +1,77 @@
+{
+  "hyperparameters": {
+    "epsilon": 0.001,
+    "threshold": -3.790046,
+    "method": "mean_log_probability"
+  },
+  "anomaly_detection": {
+    "precision": 0.3583,
+    "recall": 0.9672,
+    "f1": 0.5228,
+    "roc_auc": 0.2561,
+    "pr_auc": 0.2434,
+    "tp": 48832,
+    "fp": 87475,
+    "fn": 1655,
+    "tn": 2544,
+    "per_stratum": {
+      "N_only": {
+        "precision": 1.0,
+        "recall": 0.9215614164127351,
+        "f1": 0.9591797676008204,
+        "tp": 17541,
+        "fp": 0,
+        "fn": 1493
+      },
+      "R_only": {
+        "precision": 1.0,
+        "recall": 0.9943353019163553,
+        "f1": 0.9971596059708708,
+        "tp": 24750,
+        "fp": 0,
+        "fn": 141
+      },
+      "mixed": {
+        "precision": 1.0,
+        "recall": 0.9967997561718989,
+        "f1": 0.9983973135923071,
+        "tp": 6541,
+        "fp": 0,
+        "fn": 21
+      }
+    }
+  },
+  "next_state_prediction": {
+    "overall_accuracy": 65.6426,
+    "normal_accuracy": 65.8738,
+    "anomalous_accuracy": 65.2303,
+    "per_stratum": {
+      "normal": {
+        "accuracy": 65.8738,
+        "correct": 17661094,
+        "total": 26810495
+      },
+      "N_only": {
+        "accuracy": 72.4731,
+        "correct": 4109152,
+        "total": 5669898
+      },
+      "R_only": {
+        "accuracy": 60.8611,
+        "correct": 4511583,
+        "total": 7412918
+      },
+      "mixed": {
+        "accuracy": 60.7914,
+        "correct": 1188405,
+        "total": 1954890
+      }
+    }
+  },
+  "score_distribution": {
+    "normal_mean": -6.2842,
+    "normal_std": 1.0815,
+    "anomalous_mean": -5.6658,
+    "anomalous_std": 1.4395
+  }
+}

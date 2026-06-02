@@ -1,0 +1,5194 @@
+{
+  "0": {
+    "event_id": "UNMATCHED",
+    "template": ""
+  },
+  "1242": {
+    "event_id": "E1242",
+    "template": "warning: mail_queue_enter: create file maildrop/<*>: Read-only file system"
+  },
+  "1243": {
+    "event_id": "E1243",
+    "template": "mail_queue_enter: create file maildrop/<*>: Read-only file system"
+  },
+  "1244": {
+    "event_id": "E1244",
+    "template": "create file maildrop/<*>: Read-only file system"
+  },
+  "1246": {
+    "event_id": "E1246",
+    "template": "THH(<*>): mnt_projects/<*>"
+  },
+  "1248": {
+    "event_id": "E1248",
+    "template": "[KERNEL_IB][<*>][<*>]<*>"
+  },
+  "1254": {
+    "event_id": "E1254",
+    "template": "Lost <*> timer tick(s)! rip <*>"
+  },
+  "664": {
+    "event_id": "E664",
+    "template": "session opened for user <*> by <*>(uid=<*>)"
+  },
+  "968": {
+    "event_id": "E968",
+    "template": "Got trap from peer on fd <*>"
+  },
+  "294": {
+    "event_id": "E294",
+    "template": "data_thread() got not answer from any [<*>] datasource"
+  },
+  "919": {
+    "event_id": "E919",
+    "template": "session closed for user <*>"
+  },
+  "561": {
+    "event_id": "E561",
+    "template": "Accepted publickey for <*> from <*> port <*> ssh2"
+  },
+  "85": {
+    "event_id": "E85",
+    "template": "[KERNEL_IB][ib_mad_dispatch][<*>]mad_process failed (<*>) for <*> port <*> QPN <*> (class <*>, aid <*>)"
+  },
+  "1223": {
+    "event_id": "E1223",
+    "template": "(<*>) CMD (<*>)"
+  },
+  "4": {
+    "event_id": "E4",
+    "template": "Instrumentation Service EventID: <*> Temperature sensor returned to a normal value Sensor location: <*> Chassis location: <*> Previous state was: <*> Temperature sensor value (in Degrees Celsius): <*>"
+  },
+  "1274": {
+    "event_id": "E1274",
+    "template": "MOSAL(<*>): next = <*>"
+  },
+  "1275": {
+    "event_id": "E1275",
+    "template": "MOSAL(<*>): prev = <*>"
+  },
+  "1276": {
+    "event_id": "E1276",
+    "template": "MOSAL(<*>): mlock_ctx = <*>"
+  },
+  "1277": {
+    "event_id": "E1277",
+    "template": "MOSAL(<*>): iomem = <*>"
+  },
+  "1278": {
+    "event_id": "E1278",
+    "template": "MOSAL(<*>): file_shared = <*>"
+  },
+  "1279": {
+    "event_id": "E1279",
+    "template": "MOSAL(<*>): prot_ctx = <*>"
+  },
+  "1280": {
+    "event_id": "E1280",
+    "template": "MOSAL(<*>): page_shift = <*>"
+  },
+  "1281": {
+    "event_id": "E1281",
+    "template": "MOSAL(<*>): ref_iobuf = <*>"
+  },
+  "1282": {
+    "event_id": "E1282",
+    "template": "MOSAL(<*>): phys_ctg = <*>"
+  },
+  "1283": {
+    "event_id": "E1283",
+    "template": "MOSAL(<*>): need_page_secure = <*>"
+  },
+  "2": {
+    "event_id": "E2",
+    "template": "Instrumentation Service EventID: <*> Temperature sensor detected a warning value Sensor location: <*> Chassis location: <*> Previous state was: <*> (Normal) Temperature sensor value (in Degrees Celsius): <*>"
+  },
+  "1258": {
+    "event_id": "E1258",
+    "template": "removing <*>"
+  },
+  "297": {
+    "event_id": "E297",
+    "template": "[<*>]: Failed to GetNodeInfo() because of NO RESPONSE"
+  },
+  "200": {
+    "event_id": "E200",
+    "template": "[<*>]: Failed discover node test, node <*>, port_num= <*>, error code <*>"
+  },
+  "1255": {
+    "event_id": "E1255",
+    "template": "%RPM0-P:CP %IFMGR-5-OSTATE_DN: Changed interface state to down: <*>"
+  },
+  "1256": {
+    "event_id": "E1256",
+    "template": "%RPM0-P:CP %IFMGR-5-OSTATE_UP: Changed interface state to up: <*>"
+  },
+  "1265": {
+    "event_id": "E1265",
+    "template": "flag: <*>"
+  },
+  "893": {
+    "event_id": "E893",
+    "template": "synchronized to <*> stratum <*>"
+  },
+  "939": {
+    "event_id": "E939",
+    "template": "START: rsync pid=<*> from=<*>"
+  },
+  "1257": {
+    "event_id": "E1257",
+    "template": "message repeated <*> times"
+  },
+  "169": {
+    "event_id": "E169",
+    "template": "[<*>]: ********************** NEW SWEEP ********************"
+  },
+  "938": {
+    "event_id": "E938",
+    "template": "[<*>]: No topology change"
+  },
+  "1261": {
+    "event_id": "E1261",
+    "template": "keytab: <*>"
+  },
+  "1262": {
+    "event_id": "E1262",
+    "template": "banner: <*>"
+  },
+  "1263": {
+    "event_id": "E1263",
+    "template": "ccache dir: <*>"
+  },
+  "1264": {
+    "event_id": "E1264",
+    "template": "configured realm '<*>'"
+  },
+  "1267": {
+    "event_id": "E1267",
+    "template": "renewable lifetime: <*>"
+  },
+  "1266": {
+    "event_id": "E1266",
+    "template": "flag: no <*>"
+  },
+  "1268": {
+    "event_id": "E1268",
+    "template": "ticket lifetime: <*>"
+  },
+  "1056": {
+    "event_id": "E1056",
+    "template": "<*> startup succeeded"
+  },
+  "1269": {
+    "event_id": "E1269",
+    "template": "flags: <*>"
+  },
+  "1270": {
+    "event_id": "E1270",
+    "template": "net.ipv4.ip_forward = <*>"
+  },
+  "1271": {
+    "event_id": "E1271",
+    "template": "net.ipv4.neigh.default.gc_thresh2 = <*>"
+  },
+  "1272": {
+    "event_id": "E1272",
+    "template": "net.ipv4.neigh.default.gc_thresh3 = <*>"
+  },
+  "1273": {
+    "event_id": "E1273",
+    "template": "net.ipv4.route.gc_thresh = <*>"
+  },
+  "924": {
+    "event_id": "E924",
+    "template": "file-max limit <*> reached"
+  },
+  "835": {
+    "event_id": "E835",
+    "template": "[<*>]: Rediscover the subnet"
+  },
+  "767": {
+    "event_id": "E767",
+    "template": "[<*>]: IB node <*> port <*> is INIT state"
+  },
+  "218": {
+    "event_id": "E218",
+    "template": "[INFO]: Configuration caused by some ports in INIT state"
+  },
+  "718": {
+    "event_id": "E718",
+    "template": "can't open <*>: Permission denied"
+  },
+  "488": {
+    "event_id": "E488",
+    "template": "ACPI: PCI interrupt <*> -> GSI <*> (level, <*>) -> IRQ <*>"
+  },
+  "273": {
+    "event_id": "E273",
+    "template": "My unqualified host name <*> unknown; sleeping for retry"
+  },
+  "1032": {
+    "event_id": "E1032",
+    "template": "<*> shutdown succeeded"
+  },
+  "248": {
+    "event_id": "E248",
+    "template": "Reading included configuration file: <*> [file=<*>] [line=<*>]"
+  },
+  "1259": {
+    "event_id": "E1259",
+    "template": "pam_close_session returning <*>"
+  },
+  "1284": {
+    "event_id": "E1284",
+    "template": "MOSAL(<*>): size = <*>"
+  },
+  "1114": {
+    "event_id": "E1114",
+    "template": "<*> shutdown failed"
+  },
+  "1247": {
+    "event_id": "E1247",
+    "template": "THH(<*>): mnt_<*>: Out of MTT entries"
+  },
+  "535": {
+    "event_id": "E535",
+    "template": "[<*>]: No configuration change required"
+  },
+  "1260": {
+    "event_id": "E1260",
+    "template": "pam_open_session returning <*>"
+  },
+  "1288": {
+    "event_id": "E1288",
+    "template": "Mounting NFS filesystems: succeeded"
+  },
+  "1294": {
+    "event_id": "E1294",
+    "template": "-e"
+  },
+  "1295": {
+    "event_id": "E1295",
+    "template": "Bad UID for job execution (<*>) in <*>, abort attempted <*> times in job_start_error. ignoring abort request from node <*>"
+  },
+  "358": {
+    "event_id": "E358",
+    "template": "DHCPDISCOVER from <*> via <*>: network <*>: no free leases"
+  },
+  "579": {
+    "event_id": "E579",
+    "template": "ACPI: PCI Interrupt Routing Table [<*>]"
+  },
+  "870": {
+    "event_id": "E870",
+    "template": "Listening on interface <*>, <*>"
+  },
+  "222": {
+    "event_id": "E222",
+    "template": "unable to qualify my own domain name (<*>) -- using short name"
+  },
+  "318": {
+    "event_id": "E318",
+    "template": "Cannot open file <*> for writing (Too many open files)"
+  },
+  "346": {
+    "event_id": "E346",
+    "template": "<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<*>, relay=<*>"
+  },
+  "1214": {
+    "event_id": "E1214",
+    "template": "ACPI: <*> (<*>) @ <*>"
+  },
+  "802": {
+    "event_id": "E802",
+    "template": "Updated timestamp for job <*> to <*>"
+  },
+  "491": {
+    "event_id": "E491",
+    "template": "DHCPREQUEST for <*> from <*> via <*>: unknown lease <*>."
+  },
+  "1035": {
+    "event_id": "E1035",
+    "template": "Kickstart Install: <*>"
+  },
+  "102": {
+    "event_id": "E102",
+    "template": "MOSAL(<*>): <*>[<*>]: MOSAL_mlock_iobuf: Failed (<*>) priv_mosal_mlock for addr=<*> size=<*>"
+  },
+  "840": {
+    "event_id": "E840",
+    "template": "MOSAL(<*>): <*>[<*>]: dump iobuf at <*> :"
+  },
+  "1154": {
+    "event_id": "E1154",
+    "template": "MOSAL(<*>): pid=<*>"
+  },
+  "1019": {
+    "event_id": "E1019",
+    "template": "MOSAL(<*>): req_perm = <*> | <*>"
+  },
+  "1039": {
+    "event_id": "E1039",
+    "template": "MOSAL(<*>): map_list = <*>"
+  },
+  "1091": {
+    "event_id": "E1091",
+    "template": "MOSAL(<*>): file_p = <*>"
+  },
+  "373": {
+    "event_id": "E373",
+    "template": "VIPKL(<*>): [create_mr] MM_bld_hh_mr failed (<*>)"
+  },
+  "183": {
+    "event_id": "E183",
+    "template": "VIPKL(<*>): <*>[<*>]: make_iobuf: MOSAL_iobuf_register failed: va=<*>=<*>"
+  },
+  "1250": {
+    "event_id": "E1250",
+    "template": "Call Trace:<*>"
+  },
+  "656": {
+    "event_id": "E656",
+    "template": "NET: Registered protocol family <*>"
+  },
+  "983": {
+    "event_id": "E983",
+    "template": "DHCPDISCOVER from <*> via <*>"
+  },
+  "1068": {
+    "event_id": "E1068",
+    "template": "DHCPOFFER on <*> to <*> via <*>"
+  },
+  "1048": {
+    "event_id": "E1048",
+    "template": "BIOS-<*>: <*> - <*> (reserved)"
+  },
+  "239": {
+    "event_id": "E239",
+    "template": "Cannot open file <*> for writing (No such file or directory)"
+  },
+  "371": {
+    "event_id": "E371",
+    "template": "ACPI: LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])"
+  },
+  "1003": {
+    "event_id": "E1003",
+    "template": "<*> device driver loaded"
+  },
+  "850": {
+    "event_id": "E850",
+    "template": "Probing IDE interface <*>..."
+  },
+  "904": {
+    "event_id": "E904",
+    "template": "DHCPREQUEST for <*> from <*> via <*>"
+  },
+  "1125": {
+    "event_id": "E1125",
+    "template": "DHCPACK on <*> to <*> via <*>"
+  },
+  "1041": {
+    "event_id": "E1041",
+    "template": "hub <*>: <*> ports detected"
+  },
+  "1088": {
+    "event_id": "E1088",
+    "template": "hub <*>: USB hub found"
+  },
+  "534": {
+    "event_id": "E534",
+    "template": "PCI: Setting latency timer of device <*> to <*>"
+  },
+  "1138": {
+    "event_id": "E1138",
+    "template": "kernel.sysrq = <*>"
+  },
+  "128": {
+    "event_id": "E128",
+    "template": "rpc: request timed out, request <*>, <*> (async), to (peer addr not available)"
+  },
+  "599": {
+    "event_id": "E599",
+    "template": "<*> starting. Commit interval <*> seconds"
+  },
+  "687": {
+    "event_id": "E687",
+    "template": "ip_tables: <*> Netfilter core team"
+  },
+  "789": {
+    "event_id": "E789",
+    "template": "EXT3 FS on <*>, internal journal"
+  },
+  "67": {
+    "event_id": "E67",
+    "template": "pan_rpc_native_poll_req: unable to send poll pkt <*> (pan_sock: connection reset by peer)"
+  },
+  "270": {
+    "event_id": "E270",
+    "template": "EXT3-fs: mounted filesystem with ordered data mode."
+  },
+  "25": {
+    "event_id": "E25",
+    "template": "rpc: pan_rpc_request_timeout_engine poll request failed, state <*>, event <*> action <*> rc=<*> (pan_sock: connection reset by peer)"
+  },
+  "61": {
+    "event_id": "E61",
+    "template": "[<*>]: Program port state, node=<*>, port=<*>, current state <*>, neighbor node=<*>, port=<*>, current state <*>"
+  },
+  "695": {
+    "event_id": "E695",
+    "template": "[smux_accept] accepted fd <*> from <*>"
+  },
+  "477": {
+    "event_id": "E477",
+    "template": "accepted smux peer: oid <*>, password , descr <*>"
+  },
+  "372": {
+    "event_id": "E372",
+    "template": "ACPI: LAPIC (acpi_id[<*>] lapic_id[<*>] disabled)"
+  },
+  "988": {
+    "event_id": "E988",
+    "template": "<*>: clean, <*> files, <*> blocks"
+  },
+  "1215": {
+    "event_id": "E1215",
+    "template": "[<*> (<*>) -- <*>] <*> -a <*>"
+  },
+  "596": {
+    "event_id": "E596",
+    "template": "divert: allocating divert_blk for <*>"
+  },
+  "1097": {
+    "event_id": "E1097",
+    "template": "BIOS-<*>: <*> - <*> (usable)"
+  },
+  "878": {
+    "event_id": "E878",
+    "template": "<*>: no IPv6 routers present"
+  },
+  "446": {
+    "event_id": "E446",
+    "template": "ACPI: IOAPIC (id[<*>] address[<*>] gsi_base[<*>])"
+  },
+  "451": {
+    "event_id": "E451",
+    "template": "IOAPIC[<*>]: apic_id <*>, version <*>, address <*>, GSI <*>"
+  },
+  "147": {
+    "event_id": "E147",
+    "template": "Instrumentation Service EventID: <*> Server Administrator starting"
+  },
+  "105": {
+    "event_id": "E105",
+    "template": "Instrumentation Service EventID: <*> Server Administrator startup complete"
+  },
+  "609": {
+    "event_id": "E609",
+    "template": "CPU: Hyper-Threading is disabled"
+  },
+  "619": {
+    "event_id": "E619",
+    "template": "CPU: Trace cache: <*> uops, L1 D cache: <*>"
+  },
+  "1150": {
+    "event_id": "E1150",
+    "template": "CPU: L2 cache: <*>"
+  },
+  "693": {
+    "event_id": "E693",
+    "template": "uhci_hcd <*>: UHCI Host Controller"
+  },
+  "258": {
+    "event_id": "E258",
+    "template": "uhci_hcd <*>: new USB bus registered, assigned bus number <*>"
+  },
+  "985": {
+    "event_id": "E985",
+    "template": "uhci_hcd <*>: irq <*>, io base <*>"
+  },
+  "1197": {
+    "event_id": "E1197",
+    "template": "succeeded"
+  },
+  "920": {
+    "event_id": "E920",
+    "template": "ACPI: <*> used by override."
+  },
+  "1285": {
+    "event_id": "E1285",
+    "template": "MOSAL(<*>): <*>: mnt_projects/<*>"
+  },
+  "1253": {
+    "event_id": "E1253",
+    "template": "ERROR on channel <*>, id <*>, lun <*>, CDB: <*>"
+  },
+  "1286": {
+    "event_id": "E1286",
+    "template": "MOSAL(<*>): file_pgoff = <*>"
+  },
+  "933": {
+    "event_id": "E933",
+    "template": "<*> device driver unloaded"
+  },
+  "428": {
+    "event_id": "E428",
+    "template": "[<*>]: An existing IB node GUID <*> LID <*> was removed"
+  },
+  "1027": {
+    "event_id": "E1027",
+    "template": "peer disconnected: <*>"
+  },
+  "245": {
+    "event_id": "E245",
+    "template": "RRD_update (<*>): opening '<*>': Too many open files in system"
+  },
+  "463": {
+    "event_id": "E463",
+    "template": "Unable to write meta data for metric <*> to RRD"
+  },
+  "806": {
+    "event_id": "E806",
+    "template": "<*>[<*>]: segfault at <*> rip <*> rsp <*> error <*>"
+  },
+  "557": {
+    "event_id": "E557",
+    "template": "mount.panfs: started PanFS device [<*>]"
+  },
+  "498": {
+    "event_id": "E498",
+    "template": "net.ipv4.neigh.default.gc_thresh1 = <*>"
+  },
+  "319": {
+    "event_id": "E319",
+    "template": "net.ipv4.conf.default.accept_source_route = <*>"
+  },
+  "855": {
+    "event_id": "E855",
+    "template": "net.core.wmem_default = <*>"
+  },
+  "397": {
+    "event_id": "E397",
+    "template": "ACPI: LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)"
+  },
+  "887": {
+    "event_id": "E887",
+    "template": "kernel.core_uses_pid = <*>"
+  },
+  "1012": {
+    "event_id": "E1012",
+    "template": "net.core.rmem_max = <*>"
+  },
+  "552": {
+    "event_id": "E552",
+    "template": "net.ipv4.conf.default.rp_filter = <*>"
+  },
+  "856": {
+    "event_id": "E856",
+    "template": "net.core.rmem_default = <*>"
+  },
+  "901": {
+    "event_id": "E901",
+    "template": "Processor <*> <*> APIC version <*>"
+  },
+  "1009": {
+    "event_id": "E1009",
+    "template": "net.core.wmem_max = <*>"
+  },
+  "1074": {
+    "event_id": "E1074",
+    "template": "removing chargen"
+  },
+  "569": {
+    "event_id": "E569",
+    "template": "tftp: client does not accept options"
+  },
+  "481": {
+    "event_id": "E481",
+    "template": "Warning: acpi_table_parse(<*>) returned <*>!"
+  },
+  "1065": {
+    "event_id": "E1065",
+    "template": "Initializing CPU#<*>"
+  },
+  "1108": {
+    "event_id": "E1108",
+    "template": "<*> -TERM succeeded"
+  },
+  "188": {
+    "event_id": "E188",
+    "template": "divert: not allocating divert_blk for non-ethernet device <*>"
+  },
+  "948": {
+    "event_id": "E948",
+    "template": "<*>: <*>: <*>: <*> Network Connection"
+  },
+  "730": {
+    "event_id": "E730",
+    "template": "ACPI: Processor [<*>] (supports <*>)"
+  },
+  "868": {
+    "event_id": "E868",
+    "template": "Type: <*> ANSI SCSI revision: <*>"
+  },
+  "1207": {
+    "event_id": "E1207",
+    "template": "restart."
+  },
+  "467": {
+    "event_id": "E467",
+    "template": "<*> kernel module initialized successfully"
+  },
+  "1044": {
+    "event_id": "E1044",
+    "template": "Vendor: <*> Model: <*> Rev: <*>"
+  },
+  "1151": {
+    "event_id": "E1151",
+    "template": "fs.file-max = <*>"
+  },
+  "35": {
+    "event_id": "E35",
+    "template": "pan_ips: error -- cmd login netaddr connection create done, <*> (pan_sock: timeout), err_loc=<*> <*> target_address=<*>"
+  },
+  "423": {
+    "event_id": "E423",
+    "template": "Calibrating delay loop... <*> BogoMIPS (lpj=<*>)"
+  },
+  "1067": {
+    "event_id": "E1067",
+    "template": "<*> pages, LIFO batch:<*>"
+  },
+  "880": {
+    "event_id": "E880",
+    "template": "kernel time sync enabled <*>"
+  },
+  "1111": {
+    "event_id": "E1111",
+    "template": "precision = <*> usec"
+  },
+  "847": {
+    "event_id": "E847",
+    "template": "kernel time sync disabled <*>"
+  },
+  "918": {
+    "event_id": "E918",
+    "template": "kernel time sync status <*>"
+  },
+  "614": {
+    "event_id": "E614",
+    "template": "Bringing up interface <*>: succeeded"
+  },
+  "697": {
+    "event_id": "E697",
+    "template": "frequency initialized <*> PPM from <*>"
+  },
+  "1062": {
+    "event_id": "E1062",
+    "template": "connection from \"<*>\""
+  },
+  "749": {
+    "event_id": "E749",
+    "template": "Now running on <*>'s privileges."
+  },
+  "603": {
+    "event_id": "E603",
+    "template": "User <*>, coming from <*>, authenticated."
+  },
+  "202": {
+    "event_id": "E202",
+    "template": "[<*>]: Set port GUID=<*>, port=<*> DOWN (port prefix <*>, subnet_prefix <*>"
+  },
+  "461": {
+    "event_id": "E461",
+    "template": "Local disconnected: Connection closed."
+  },
+  "1034": {
+    "event_id": "E1034",
+    "template": "connection lost: '<*>'"
+  },
+  "389": {
+    "event_id": "E389",
+    "template": "[INFO]: Generate SM IN_SERVICE trap for GID=<*>"
+  },
+  "849": {
+    "event_id": "E849",
+    "template": "PanFS Client version: <*> SMP"
+  },
+  "244": {
+    "event_id": "E244",
+    "template": "panfs mount: loading a <*> CPU panfs.o kernel module on a <*> CPU"
+  },
+  "415": {
+    "event_id": "E415",
+    "template": "panfs mount: Read Ahead is turned ON at level <*>"
+  },
+  "206": {
+    "event_id": "E206",
+    "template": "panfs mount: If you are running a <*> kernel, you may get an oops."
+  },
+  "405": {
+    "event_id": "E405",
+    "template": "panfs mount: Byte range locking is turned ON"
+  },
+  "547": {
+    "event_id": "E547",
+    "template": "pan_trace: panfs trace buffer <*> added."
+  },
+  "621": {
+    "event_id": "E621",
+    "template": "pan_kmod: registered subdev <*> (\"<*>\")"
+  },
+  "783": {
+    "event_id": "E783",
+    "template": "panfs mount: <*> mode is enabled"
+  },
+  "834": {
+    "event_id": "E834",
+    "template": "step time server <*> offset <*> sec"
+  },
+  "223": {
+    "event_id": "E223",
+    "template": "pan_common: registered major number <*> for device panasas"
+  },
+  "403": {
+    "event_id": "E403",
+    "template": "panfs mount: Directory Caching is turned ON"
+  },
+  "808": {
+    "event_id": "E808",
+    "template": "pan_common: init complete"
+  },
+  "414": {
+    "event_id": "E414",
+    "template": "bindcache: failed init IPS: <*> (Out of memory)"
+  },
+  "894": {
+    "event_id": "E894",
+    "template": "<*>: updated timestamp file <*>"
+  },
+  "484": {
+    "event_id": "E484",
+    "template": "running <*> with <*> privileges on behalf of '<*>'"
+  },
+  "343": {
+    "event_id": "E343",
+    "template": "[<*>]: A new IB node <*> was discovered and assigned LID <*>"
+  },
+  "892": {
+    "event_id": "E892",
+    "template": "shutting down for system <*>"
+  },
+  "719": {
+    "event_id": "E719",
+    "template": "dcdbas: BIOS Update phys addr: <*>"
+  },
+  "926": {
+    "event_id": "E926",
+    "template": "Switching to runlevel: <*>"
+  },
+  "801": {
+    "event_id": "E801",
+    "template": "klogd <*>, log source = <*> started."
+  },
+  "1086": {
+    "event_id": "E1086",
+    "template": "NET-SNMP version <*>"
+  },
+  "866": {
+    "event_id": "E866",
+    "template": "Unmounting <*> filesystems: <*>"
+  },
+  "704": {
+    "event_id": "E704",
+    "template": "[<*>]: Failed to set LFT to switch=<*>"
+  },
+  "558": {
+    "event_id": "E558",
+    "template": "Received <*> signal... shutting down..."
+  },
+  "151": {
+    "event_id": "E151",
+    "template": "Device: <*>, Temperature changed <*> Celsius to <*> Celsius since last report"
+  },
+  "1296": {
+    "event_id": "E1296",
+    "template": "Bad UID for job execution (<*>) in <*>, job_start_error from node <*> in job_start_error"
+  },
+  "386": {
+    "event_id": "E386",
+    "template": "panfs: no version for <*> found: kernel tainted."
+  },
+  "45": {
+    "event_id": "E45",
+    "template": "RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)"
+  },
+  "1287": {
+    "event_id": "E1287",
+    "template": "MOSAL(<*>): va = <*>"
+  },
+  "864": {
+    "event_id": "E864",
+    "template": "Server listening on <*> port <*>."
+  },
+  "677": {
+    "event_id": "E677",
+    "template": "IPv6 over IPv4 tunneling driver"
+  },
+  "279": {
+    "event_id": "E279",
+    "template": "error: Bind to port <*> on <*> failed: Address already in use."
+  },
+  "479": {
+    "event_id": "E479",
+    "template": "Disabled Privacy Extensions on device <*>(<*>)"
+  },
+  "172": {
+    "event_id": "E172",
+    "template": "[<*>]: Force port to go down due to LID conflict, node - GUID=<*>, port=<*>"
+  },
+  "954": {
+    "event_id": "E954",
+    "template": "starting udevd daemon"
+  },
+  "1014": {
+    "event_id": "E1014",
+    "template": "<*>: recovering journal"
+  },
+  "1087": {
+    "event_id": "E1087",
+    "template": "(CRON) STARTUP (<*>)"
+  },
+  "1095": {
+    "event_id": "E1095",
+    "template": "<*> exiting on signal <*>"
+  },
+  "676": {
+    "event_id": "E676",
+    "template": "md: Autodetecting RAID arrays."
+  },
+  "1131": {
+    "event_id": "E1131",
+    "template": "md: autorun ..."
+  },
+  "997": {
+    "event_id": "E997",
+    "template": "md: ... autorun DONE."
+  },
+  "548": {
+    "event_id": "E548",
+    "template": "Started working: <*> available services"
+  },
+  "744": {
+    "event_id": "E744",
+    "template": "Setting network parameters: <*>"
+  },
+  "631": {
+    "event_id": "E631",
+    "template": "Linux version <*> (<*>) (gcc version <*>) <*> SMP <*>"
+  },
+  "829": {
+    "event_id": "E829",
+    "template": "Creating Topspin <*> entries:"
+  },
+  "641": {
+    "event_id": "E641",
+    "template": "BIOS-provided physical RAM map:"
+  },
+  "644": {
+    "event_id": "E644",
+    "template": "Checking filesystems succeeded"
+  },
+  "388": {
+    "event_id": "E388",
+    "template": "configure: keyword <*> unknown, line ignored"
+  },
+  "1047": {
+    "event_id": "E1047",
+    "template": "BIOS-<*>: <*> - <*> (ACPI data)"
+  },
+  "775": {
+    "event_id": "E775",
+    "template": "No NUMA configuration found"
+  },
+  "1134": {
+    "event_id": "E1134",
+    "template": "Faking a node at <*>"
+  },
+  "526": {
+    "event_id": "E526",
+    "template": "Setting clock (localtime): <*> succeeded"
+  },
+  "672": {
+    "event_id": "E672",
+    "template": "Enabling swap space: succeeded"
+  },
+  "1031": {
+    "event_id": "E1031",
+    "template": "Entering runlevel: <*>"
+  },
+  "811": {
+    "event_id": "E811",
+    "template": "Checking all file systems."
+  },
+  "1076": {
+    "event_id": "E1076",
+    "template": "No mptable found."
+  },
+  "652": {
+    "event_id": "E652",
+    "template": "Configuring kernel parameters: <*>"
+  },
+  "1175": {
+    "event_id": "E1175",
+    "template": "DMI <*> present."
+  },
+  "780": {
+    "event_id": "E780",
+    "template": "Setting APIC routing to flat"
+  },
+  "1037": {
+    "event_id": "E1037",
+    "template": "ACPI: HPET id: <*> base: <*>"
+  },
+  "361": {
+    "event_id": "E361",
+    "template": "Enabling local filesystem quotas: succeeded"
+  },
+  "952": {
+    "event_id": "E952",
+    "template": "Checking aperture..."
+  },
+  "302": {
+    "event_id": "E302",
+    "template": "ACPI: INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)"
+  },
+  "1066": {
+    "event_id": "E1066",
+    "template": "Bootmem setup node <*> <*>"
+  },
+  "1117": {
+    "event_id": "E1117",
+    "template": "Built <*> zonelists"
+  },
+  "546": {
+    "event_id": "E546",
+    "template": "SELinux: Starting in permissive mode"
+  },
+  "683": {
+    "event_id": "E683",
+    "template": "Security Scaffold <*> initialized"
+  },
+  "616": {
+    "event_id": "E616",
+    "template": "per-CPU timeslice cutoff: <*> usecs."
+  },
+  "977": {
+    "event_id": "E977",
+    "template": "<*>: Using <*> MHz HPET timer."
+  },
+  "865": {
+    "event_id": "E865",
+    "template": "<*>: Detected <*> MHz processor."
+  },
+  "841": {
+    "event_id": "E841",
+    "template": "Booting processor <*> rip <*> rsp <*>"
+  },
+  "588": {
+    "event_id": "E588",
+    "template": "removed all generated mount points"
+  },
+  "411": {
+    "event_id": "E411",
+    "template": "task migration cache decay timeout: <*> msecs."
+  },
+  "324": {
+    "event_id": "E324",
+    "template": "Inode-cache hash table entries: <*> (order: <*>, <*> bytes)"
+  },
+  "457": {
+    "event_id": "E457",
+    "template": "Capability LSM initialized as secondary"
+  },
+  "846": {
+    "event_id": "E846",
+    "template": "Using IO APIC NMI watchdog"
+  },
+  "1142": {
+    "event_id": "E1142",
+    "template": "<*> <*> entries driver"
+  },
+  "325": {
+    "event_id": "E325",
+    "template": "Dentry cache hash table entries: <*> (order: <*>, <*> bytes)"
+  },
+  "1121": {
+    "event_id": "E1121",
+    "template": "Console: colour <*> <*>"
+  },
+  "875": {
+    "event_id": "E875",
+    "template": "SELinux: Initializing."
+  },
+  "1144": {
+    "event_id": "E1144",
+    "template": "CPU0: <*> stepping <*>"
+  },
+  "964": {
+    "event_id": "E964",
+    "template": "using <*> in idle threads."
+  },
+  "272": {
+    "event_id": "E272",
+    "template": "Using ACPI (MADT) for SMP configuration information"
+  },
+  "611": {
+    "event_id": "E611",
+    "template": "activating NMI Watchdog ... done."
+  },
+  "250": {
+    "event_id": "E250",
+    "template": "Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init)"
+  },
+  "322": {
+    "event_id": "E322",
+    "template": "Mount-cache hash table entries: <*> (order: <*>, <*> bytes)"
+  },
+  "115": {
+    "event_id": "E115",
+    "template": "selinux_register_security: Registering secondary module capability"
+  },
+  "696": {
+    "event_id": "E696",
+    "template": "Intel(R) Xeon(TM) CPU <*> stepping <*>"
+  },
+  "92": {
+    "event_id": "E92",
+    "template": "There is already a security framework initialized, register_security failed."
+  },
+  "154": {
+    "event_id": "E154",
+    "template": "xinetd Version <*> started with libwrap loadavg options compiled in."
+  },
+  "516": {
+    "event_id": "E516",
+    "template": "PID hash table entries: <*> (order: <*>, <*> bytes)"
+  },
+  "725": {
+    "event_id": "E725",
+    "template": "PCI: Using configuration type <*>"
+  },
+  "884": {
+    "event_id": "E884",
+    "template": "Detected <*> MHz APIC timer."
+  },
+  "530": {
+    "event_id": "E530",
+    "template": "Setting up Logical Volume Management: <*>"
+  },
+  "691": {
+    "event_id": "E691",
+    "template": "PCI: Probing PCI hardware (bus <*>)"
+  },
+  "661": {
+    "event_id": "E661",
+    "template": "Placing software IO TLB between <*> - <*>"
+  },
+  "586": {
+    "event_id": "E586",
+    "template": "Initializing IPsec netlink socket"
+  },
+  "853": {
+    "event_id": "E853",
+    "template": "ACPI: Subsystem revision <*>"
+  },
+  "1136": {
+    "event_id": "E1136",
+    "template": "Brought up <*> CPUs"
+  },
+  "770": {
+    "event_id": "E770",
+    "template": "testing NMI watchdog ... OK."
+  },
+  "817": {
+    "event_id": "E817",
+    "template": "Opened configuration file <*>"
+  },
+  "831": {
+    "event_id": "E831",
+    "template": "<*>: Using <*> based timekeeping."
+  },
+  "969": {
+    "event_id": "E969",
+    "template": "PCI: Using MMCONFIG at <*>"
+  },
+  "589": {
+    "event_id": "E589",
+    "template": "Using local APIC timer interrupts."
+  },
+  "424": {
+    "event_id": "E424",
+    "template": "smartd version <*> [<*>] Copyright (C) <*> Bruce Allen"
+  },
+  "1115": {
+    "event_id": "E1115",
+    "template": "Device: <*>, opened"
+  },
+  "1188": {
+    "event_id": "E1188",
+    "template": "Home page is <*>"
+  },
+  "601": {
+    "event_id": "E601",
+    "template": "Copyright (c) <*>-<*> Intel Corporation."
+  },
+  "799": {
+    "event_id": "E799",
+    "template": "Linux agpgart interface <*> (c) <*>"
+  },
+  "967": {
+    "event_id": "E967",
+    "template": "audit(<*>): initialized"
+  },
+  "1000": {
+    "event_id": "E1000",
+    "template": "ACPI wakeup devices:"
+  },
+  "867": {
+    "event_id": "E867",
+    "template": "ACPI: PCI Root Bridge [<*>] (<*>)"
+  },
+  "460": {
+    "event_id": "E460",
+    "template": "ACPI: Using IOAPIC for interrupt routing"
+  },
+  "328": {
+    "event_id": "E328",
+    "template": "audit: initializing netlink socket (disabled)"
+  },
+  "812": {
+    "event_id": "E812",
+    "template": "ACPI: Interpreter enabled"
+  },
+  "578": {
+    "event_id": "E578",
+    "template": "Freeing unused kernel memory: <*> freed"
+  },
+  "712": {
+    "event_id": "E712",
+    "template": "SELinux: Disabled at runtime."
+  },
+  "857": {
+    "event_id": "E857",
+    "template": "PCI: Transparent bridge - <*>"
+  },
+  "1100": {
+    "event_id": "E1100",
+    "template": "Loading keyring"
+  },
+  "777": {
+    "event_id": "E777",
+    "template": "PCI0 PALO PBLO VPR0 PBHI PICH"
+  },
+  "1126": {
+    "event_id": "E1126",
+    "template": "<*> at I/O <*> (irq = <*>) is a <*>"
+  },
+  "971": {
+    "event_id": "E971",
+    "template": "Real Time Clock Driver <*>"
+  },
+  "959": {
+    "event_id": "E959",
+    "template": "Using cfq io scheduler"
+  },
+  "989": {
+    "event_id": "E989",
+    "template": "serio: <*> AUX port at <*>,<*> irq <*>"
+  },
+  "710": {
+    "event_id": "E710",
+    "template": "ACPI: Power Button (FF) [PWRF]"
+  },
+  "708": {
+    "event_id": "E708",
+    "template": "PCI: Using ACPI for IRQ routing"
+  },
+  "647": {
+    "event_id": "E647",
+    "template": "Total HugeTLB memory allocated, <*>"
+  },
+  "791": {
+    "event_id": "E791",
+    "template": "Configuration file <*> parsed."
+  },
+  "583": {
+    "event_id": "E583",
+    "template": "SCSI device <*>: <*> <*>-byte hdwr sectors (<*> MB)"
+  },
+  "774": {
+    "event_id": "E774",
+    "template": "SCSI subsystem initialized"
+  },
+  "1079": {
+    "event_id": "E1079",
+    "template": "ACPI: (supports <*>)"
+  },
+  "336": {
+    "event_id": "E336",
+    "template": "Uniform Multi-Platform E-IDE driver Revision: <*>"
+  },
+  "523": {
+    "event_id": "E523",
+    "template": "SELinux: Registering netfilter hooks"
+  },
+  "520": {
+    "event_id": "E520",
+    "template": "usbcore: registered new driver hiddev"
+  },
+  "1221": {
+    "event_id": "E1221",
+    "template": "mtrr: <*> (<*>)"
+  },
+  "417": {
+    "event_id": "E417",
+    "template": "Total of <*> processors activated (<*> BogoMIPS)."
+  },
+  "416": {
+    "event_id": "E416",
+    "template": "usb <*>: new high speed USB device using address <*>"
+  },
+  "229": {
+    "event_id": "E229",
+    "template": "RAMDISK driver initialized: <*> RAM disks of <*> size <*> blocksize"
+  },
+  "636": {
+    "event_id": "E636",
+    "template": "fs_client_fm: All RPCs returned"
+  },
+  "133": {
+    "event_id": "E133",
+    "template": "ide: Assuming <*> system bus speed for PIO modes; override with idebus=xx"
+  },
+  "675": {
+    "event_id": "E675",
+    "template": "fs_client: Umounting panfs ..."
+  },
+  "1109": {
+    "event_id": "E1109",
+    "template": "VFS: Disk quotas <*>"
+  },
+  "286": {
+    "event_id": "E286",
+    "template": "checking TSC synchronization across <*> CPUs: passed."
+  },
+  "507": {
+    "event_id": "E507",
+    "template": "ACPI: PCI Interrupt Link [LNKA] (IRQs <*>) <*>"
+  },
+  "1064": {
+    "event_id": "E1064",
+    "template": "ide-floppy driver <*>"
+  },
+  "625": {
+    "event_id": "E625",
+    "template": "device-mapper: <*> initialised: dm-<*>"
+  },
+  "608": {
+    "event_id": "E608",
+    "template": "ksign: Installing public key data"
+  },
+  "342": {
+    "event_id": "E342",
+    "template": "Dquot-cache hash table entries: <*> (order <*>, <*> bytes)"
+  },
+  "511": {
+    "event_id": "E511",
+    "template": "IP: routing cache hash table of <*> buckets, <*>"
+  },
+  "743": {
+    "event_id": "E743",
+    "template": "<*>: no floppy controllers found"
+  },
+  "339": {
+    "event_id": "E339",
+    "template": "TCP: Hash tables configured (established <*> bind <*>)"
+  },
+  "532": {
+    "event_id": "E532",
+    "template": "Intel(R) PRO/<*> Network Driver - version <*>"
+  },
+  "560": {
+    "event_id": "E560",
+    "template": "pan_kmod: done quiescing subdev <*> (\"<*>\")"
+  },
+  "550": {
+    "event_id": "E550",
+    "template": "mice: <*> mouse device common for all mice"
+  },
+  "433": {
+    "event_id": "E433",
+    "template": "fs_client_cap: starting to scrub the caps"
+  },
+  "1140": {
+    "event_id": "E1140",
+    "template": "IA32 emulation <*>"
+  },
+  "204": {
+    "event_id": "E204",
+    "template": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)"
+  },
+  "980": {
+    "event_id": "E980",
+    "template": "<*> <*>: EHCI Host Controller"
+  },
+  "232": {
+    "event_id": "E232",
+    "template": "Serial: <*> driver $Revision: <*> $ <*> ports, IRQ sharing enabled"
+  },
+  "640": {
+    "event_id": "E640",
+    "template": "Initializing Cryptographic API"
+  },
+  "584": {
+    "event_id": "E584",
+    "template": "ehci_hcd <*>: USB <*> enabled, EHCI <*>, driver <*>"
+  },
+  "259": {
+    "event_id": "E259",
+    "template": "ehci_hcd <*>: new USB bus registered, assigned bus number <*>"
+  },
+  "995": {
+    "event_id": "E995",
+    "template": "fs_client_cap: done"
+  },
+  "787": {
+    "event_id": "E787",
+    "template": "inserting floppy driver for <*>"
+  },
+  "179": {
+    "event_id": "E179",
+    "template": "Intel <*> detected.<*>: PCI Hot Plug PCI Core version: <*>"
+  },
+  "984": {
+    "event_id": "E984",
+    "template": "ehci_hcd <*>: irq <*>, pci mem <*>"
+  },
+  "447": {
+    "event_id": "E447",
+    "template": "md: md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>"
+  },
+  "565": {
+    "event_id": "E565",
+    "template": "<*>: from=<*>, size=<*>, nrcpt=<*> (queue active)"
+  },
+  "1155": {
+    "event_id": "E1155",
+    "template": "<*>: message-id=<*>"
+  },
+  "1018": {
+    "event_id": "E1018",
+    "template": "<*>: <*>:USB HID core driver"
+  },
+  "332": {
+    "event_id": "E332",
+    "template": "USB Universal Host Controller Interface driver <*>"
+  },
+  "1042": {
+    "event_id": "E1042",
+    "template": "On node <*> totalpages: <*>"
+  },
+  "751": {
+    "event_id": "E751",
+    "template": "<*>, Inc. (Kernel Module GPG key)"
+  },
+  "108": {
+    "event_id": "E108",
+    "template": "Mellanox Tavor Device Driver is creating device <*> (domain=<*>, bus=<*>, devfn=<*>)"
+  },
+  "890": {
+    "event_id": "E890",
+    "template": "ACPI: Local APIC address <*>"
+  },
+  "679": {
+    "event_id": "E679",
+    "template": "Checking <*> filesystem succeeded"
+  },
+  "257": {
+    "event_id": "E257",
+    "template": "Remounting <*> filesystem in read-write mode: succeeded"
+  },
+  "800": {
+    "event_id": "E800",
+    "template": "DMA zone: <*> pages, LIFO batch:<*>"
+  },
+  "1195": {
+    "event_id": "E1195",
+    "template": "<*>: uid=<*> from=<*>"
+  },
+  "1020": {
+    "event_id": "E1020",
+    "template": "<*>: <*>: <*>: NIC Link is Up <*> Mbps <*>"
+  },
+  "1082": {
+    "event_id": "E1082",
+    "template": "Version <*> Starting"
+  },
+  "211": {
+    "event_id": "E211",
+    "template": "Kernel command line: ro <*>=<*> tsc console=<*> console=<*>,<*> rhgb quiet"
+  },
+  "522": {
+    "event_id": "E522",
+    "template": "checking if image is initramfs... it is"
+  },
+  "692": {
+    "event_id": "E692",
+    "template": "Received signal <*>; terminating."
+  },
+  "337": {
+    "event_id": "E337",
+    "template": "PCI: cache line size of <*> is not supported by device <*>"
+  },
+  "54": {
+    "event_id": "E54",
+    "template": "[<*>]: switch lid change, node - GUID=<*>, port=<*>, neighbor (nil), changing lid from <*>, back to original <*>"
+  },
+  "1184": {
+    "event_id": "E1184",
+    "template": "Exiting..."
+  },
+  "64": {
+    "event_id": "E64",
+    "template": "Package Release ID=<*> Package Description=<*> Support Log path=<*> Exit code = <*> (Reboot required)"
+  },
+  "111": {
+    "event_id": "E111",
+    "template": "mount.panfs: cannot init pan_fm_util_path_util module: <*> (Out of memory)"
+  },
+  "215": {
+    "event_id": "E215",
+    "template": "pan_ips: error -- cfg target addresses, <*> (Out of memory), <*>"
+  },
+  "1252": {
+    "event_id": "E1252",
+    "template": "Connection refused (<*>) in open_demux, open_demux: cannot connect to <*>"
+  },
+  "329": {
+    "event_id": "E329",
+    "template": "debug: could not init rm_client: <*> (Out of memory)"
+  },
+  "292": {
+    "event_id": "E292",
+    "template": "warning: unable to look up <*>: No such file or directory"
+  },
+  "1139": {
+    "event_id": "E1139",
+    "template": "<*> startup failed"
+  },
+  "240": {
+    "event_id": "E240",
+    "template": "ts_kernel_services: module license <*> taints kernel."
+  },
+  "473": {
+    "event_id": "E473",
+    "template": "warning: <*> message has been queued for <*> days"
+  },
+  "144": {
+    "event_id": "E144",
+    "template": "[<*>]: Active state mismatch GUID=<*>, port=<*>, state <*>, GUID=<*>, port=<*>, state <*>"
+  },
+  "309": {
+    "event_id": "E309",
+    "template": "VIPKL(<*>): [MM_create_mr]:MM_mr_get_keys failed"
+  },
+  "1245": {
+    "event_id": "E1245",
+    "template": "Warning via mail to <*> produced unexpected output <*>"
+  },
+  "882": {
+    "event_id": "E882",
+    "template": "Kernel logging <*> stopped."
+  },
+  "671": {
+    "event_id": "E671",
+    "template": "Kernel log daemon terminating."
+  },
+  "936": {
+    "event_id": "E936",
+    "template": "<*> hardware driver <*> loaded"
+  },
+  "1251": {
+    "event_id": "E1251",
+    "template": "node_bailout, <*> POLL failed from node <*>"
+  },
+  "36": {
+    "event_id": "E36",
+    "template": "[KERNEL_IB][ib_mad_static_compute_base][<*>]Couldn't find a suitable network device; setting lid_base to <*>"
+  },
+  "393": {
+    "event_id": "E393",
+    "template": "Caught signal <*>, un-registering and exiting."
+  },
+  "60": {
+    "event_id": "E60",
+    "template": "warning: qmgr_active_corrupt: save corrupt file queue active id <*>: No such file or directory"
+  },
+  "368": {
+    "event_id": "E368",
+    "template": "warning: open active <*> No such file or directory"
+  },
+  "261": {
+    "event_id": "E261",
+    "template": "Unable to register device <*> (no Directive -d <*>). Exiting."
+  },
+  "252": {
+    "event_id": "E252",
+    "template": "[<*>]: Force port (node=<*>, port=<*>, state=<*>) to DOWN because <*>."
+  },
+  "399": {
+    "event_id": "E399",
+    "template": "Unable to register SCSI device <*> at line <*> of file <*>"
+  },
+  "53": {
+    "event_id": "E53",
+    "template": "[<*>]: Force neighbor port (node=<*>, port=<*>, state=<*>) to DOWN because (<*>) 1st sweep or (<*>) role change."
+  },
+  "277": {
+    "event_id": "E277",
+    "template": "Device: <*>, Bad IEC (SMART) mode page, err=<*>, skip device"
+  },
+  "213": {
+    "event_id": "E213",
+    "template": "Osa: Leaf <*> is reporting fiber latch fault condition on port <*>"
+  },
+  "77": {
+    "event_id": "E77",
+    "template": "Osa: Leaf <*> is reporting fiber latch overcurrent condition on port <*> of the (Invalid Ptr)"
+  },
+  "58": {
+    "event_id": "E58",
+    "template": "[<*>]: Clean up SA resources for port forced down due to subnet prefix change, node - GUID=<*>, port=<*>"
+  },
+  "872": {
+    "event_id": "E872",
+    "template": "cpu <*> cold: low <*>, high <*>, batch <*>"
+  },
+  "832": {
+    "event_id": "E832",
+    "template": "megaraid: <*> (Release Date: <*>)"
+  },
+  "905": {
+    "event_id": "E905",
+    "template": "cpu <*> hot: low <*>, high <*>, batch <*>"
+  },
+  "731": {
+    "event_id": "E731",
+    "template": "megaraid cmm: <*> (Release Date: <*>)"
+  },
+  "752": {
+    "event_id": "E752",
+    "template": "<*>: asking for cache data failed"
+  },
+  "556": {
+    "event_id": "E556",
+    "template": "<*>: assuming drive cache: write through"
+  },
+  "480": {
+    "event_id": "E480",
+    "template": "megaraid: fw version:[<*>] bios version:[<*>]"
+  },
+  "821": {
+    "event_id": "E821",
+    "template": "<*> : LSI Logic MegaRAID driver"
+  },
+  "214": {
+    "event_id": "E214",
+    "template": "scsi[<*>]: scanning scsi channel <*> [Phy <*>] for non-raid devices"
+  },
+  "427": {
+    "event_id": "E427",
+    "template": "megaraid: probe new device <*>: bus <*>:slot <*>:func <*>"
+  },
+  "191": {
+    "event_id": "E191",
+    "template": "scsi[<*>]: scanning scsi channel <*> [virtual] for logical drives"
+  },
+  "741": {
+    "event_id": "E741",
+    "template": "EXT3-fs: recovery complete."
+  },
+  "197": {
+    "event_id": "E197",
+    "template": "Package Release ID=<*> Package Description=<*> Support Log path=<*>"
+  },
+  "1124": {
+    "event_id": "E1124",
+    "template": "[CONF]: [<*>]: copy <*> <*>"
+  },
+  "1234": {
+    "event_id": "E1234",
+    "template": "[<*> (<*>) -- <*>]"
+  },
+  "934": {
+    "event_id": "E934",
+    "template": "/: clean, <*> files, <*> blocks"
+  },
+  "1174": {
+    "event_id": "E1174",
+    "template": "fsck.ext3 -a <*>"
+  },
+  "230": {
+    "event_id": "E230",
+    "template": "pan_ips: error -- real init, <*> (Out of memory), err_loc=<*>, <*>"
+  },
+  "499": {
+    "event_id": "E499",
+    "template": "SCSI device <*>: drive cache: write through"
+  },
+  "972": {
+    "event_id": "E972",
+    "template": "Fusion MPT base driver <*>"
+  },
+  "571": {
+    "event_id": "E571",
+    "template": "Copyright (c) <*> LSI Logic Corporation"
+  },
+  "825": {
+    "event_id": "E825",
+    "template": "Fusion MPT SCSI Host driver <*>"
+  },
+  "759": {
+    "event_id": "E759",
+    "template": "mptbase: Initiating <*> bringup"
+  },
+  "707": {
+    "event_id": "E707",
+    "template": "<*> : <*>: <*>, FwRev=<*>, Ports=<*>, MaxQ=<*>, IRQ=<*>"
+  },
+  "978": {
+    "event_id": "E978",
+    "template": "ioc0: <*>: Capabilities=<*>"
+  },
+  "71": {
+    "event_id": "E71",
+    "template": "Node <*> <*> <*> min:<*> low:<*> high:<*> active:<*> inactive:<*> present:<*> pages_scanned:<*> all_unreclaimable? <*>"
+  },
+  "1112": {
+    "event_id": "E1112",
+    "template": "protections[]: <*>"
+  },
+  "907": {
+    "event_id": "E907",
+    "template": "segfault at <*> rip <*> rsp <*> error <*>"
+  },
+  "310": {
+    "event_id": "E310",
+    "template": "EXT3-fs: write access <*> be enabled during recovery."
+  },
+  "694": {
+    "event_id": "E694",
+    "template": "[<*>]: async events require sweep"
+  },
+  "205": {
+    "event_id": "E205",
+    "template": "EXT3-fs: INFO: recovery required on readonly filesystem."
+  },
+  "768": {
+    "event_id": "E768",
+    "template": "<*> : TTY=<*> ; PWD=<*> ; USER=<*> ; COMMAND=<*>"
+  },
+  "287": {
+    "event_id": "E287",
+    "template": "Kickstart/Yast Install: Finished installation on <*>"
+  },
+  "220": {
+    "event_id": "E220",
+    "template": "Kickstart: setup firstboot for ganglia client software"
+  },
+  "668": {
+    "event_id": "E668",
+    "template": "Kickstart: configure services"
+  },
+  "772": {
+    "event_id": "E772",
+    "template": "Kickstart: setup firstboot"
+  },
+  "431": {
+    "event_id": "E431",
+    "template": "Kickstart: setup soft links and NFS mounts"
+  },
+  "317": {
+    "event_id": "E317",
+    "template": "Kickstart: setup firstboot for tbird panasas env"
+  },
+  "911": {
+    "event_id": "E911",
+    "template": "Install: apply updates"
+  },
+  "455": {
+    "event_id": "E455",
+    "template": "Kickstart: Configure sysctl parameters"
+  },
+  "494": {
+    "event_id": "E494",
+    "template": "Kickstart: setup authorization schema"
+  },
+  "1102": {
+    "event_id": "E1102",
+    "template": "setup NTP client"
+  },
+  "362": {
+    "event_id": "E362",
+    "template": "Kickstart: setup the cisco (topspin) ib stack"
+  },
+  "974": {
+    "event_id": "E974",
+    "template": "START: tftp pid=<*> from=<*>"
+  },
+  "247": {
+    "event_id": "E247",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_register_mr: Device in FATAL state"
+  },
+  "600": {
+    "event_id": "E600",
+    "template": "THH(<*>): XHH_mrwm_register_mr: rc=<*>"
+  },
+  "851": {
+    "event_id": "E851",
+    "template": "<*> key generation succeeded"
+  },
+  "1201": {
+    "event_id": "E1201",
+    "template": "Sending on <*>"
+  },
+  "1226": {
+    "event_id": "E1226",
+    "template": "failed"
+  },
+  "21": {
+    "event_id": "E21",
+    "template": "mount.panfs warning: mount still trying to ping realm. Mount has been trying to ping for <*> seconds and may try for another <*> seconds"
+  },
+  "699": {
+    "event_id": "E699",
+    "template": "Monitoring <*> ATA and <*> SCSI devices"
+  },
+  "57": {
+    "event_id": "E57",
+    "template": "pan_ips: error -- cmd_destroy: destroying aborted (rc=<*> (IPS: command timed out)) command <*> (<*>)"
+  },
+  "160": {
+    "event_id": "E160",
+    "template": "pan_ips: error -- cmd_destroy: destroying timed out command cd=<*>"
+  },
+  "47": {
+    "event_id": "E47",
+    "template": "pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=<*> (IPS: command timed out)) command <*>"
+  },
+  "698": {
+    "event_id": "E698",
+    "template": "[INFO]: port down - port=<*>, type=<*>"
+  },
+  "474": {
+    "event_id": "E474",
+    "template": "Device: <*>, initial Temperature is <*> Celsius"
+  },
+  "1": {
+    "event_id": "E1",
+    "template": "mount.panfs warning: This mount still may succeed, but one or more local interfaces (listed below) failed communicate with the Panasas realm during mount. This suggests that a route cannot be established between these local interface(s) and the system. A client sends a list of IP addresses on which the Panasas storage system may establish a connection. If any one of these addresses should be excluded from the mount time check, use the 'callback-network-disallow' or 'callback-address-disallow' mount options. See 'man <*> mount.panfs' for more details on PanFS mount options. Excluding the interface from the check at mount time <*> avoid long running mount commands."
+  },
+  "529": {
+    "event_id": "E529",
+    "template": "mount.panfs: failed local addresses: <*>"
+  },
+  "395": {
+    "event_id": "E395",
+    "template": "Device: <*>, is SMART capable. Adding to <*> list."
+  },
+  "296": {
+    "event_id": "E296",
+    "template": "smartd has fork()ed into background mode. New PID=<*>."
+  },
+  "489": {
+    "event_id": "E489",
+    "template": "MOSAL(<*>): <*>[<*>]: unlock_it: unknown error (<*>)"
+  },
+  "714": {
+    "event_id": "E714",
+    "template": "[trip Temperature is <*> Celsius]"
+  },
+  "613": {
+    "event_id": "E613",
+    "template": "can't open <*>: Read-only file system"
+  },
+  "24": {
+    "event_id": "E24",
+    "template": "pan_ips: error -- cmd login netaddr connection create done, <*> (pan_sock: network unreachable), err_loc=<*> <*> target_address=<*>"
+  },
+  "49": {
+    "event_id": "E49",
+    "template": "pan_ips: error -- nexus initiator connect callback, <*> (pan_sock: network unreachable), err_loc=<*>, <*>"
+  },
+  "570": {
+    "event_id": "E570",
+    "template": "mount: special device <*> does not exist"
+  },
+  "471": {
+    "event_id": "E471",
+    "template": "Copyright <*> Internet Systems Consortium."
+  },
+  "965": {
+    "event_id": "E965",
+    "template": "For info, please visit <*>"
+  },
+  "686": {
+    "event_id": "E686",
+    "template": "smartd is exiting (exit status <*>)"
+  },
+  "470": {
+    "event_id": "E470",
+    "template": "Internet Systems Consortium DHCP Server <*>"
+  },
+  "576": {
+    "event_id": "E576",
+    "template": "smartd received signal <*>: Terminated"
+  },
+  "975": {
+    "event_id": "E975",
+    "template": "[<*>]: Topology changed"
+  },
+  "13": {
+    "event_id": "E13",
+    "template": "pan_ips: error -- IPS command timeout command timed out expire_time=<*> now=<*> lifetime=<*> grace_timeouts=<*> cd=<*> session=<*> (initiator:<*> <-> target-OSD:<*>) id=(<*>)"
+  },
+  "363": {
+    "event_id": "E363",
+    "template": "no server suitable for synchronization found"
+  },
+  "351": {
+    "event_id": "E351",
+    "template": "FATAL: Could not load <*>: No such file or directory"
+  },
+  "438": {
+    "event_id": "E438",
+    "template": "dcdipm: disagrees about version of symbol <*>"
+  },
+  "440": {
+    "event_id": "E440",
+    "template": "dcdbas: disagrees about version of symbol <*>"
+  },
+  "370": {
+    "event_id": "E370",
+    "template": "NOTE: <*> must be restarted to activate changes to <*>"
+  },
+  "134": {
+    "event_id": "E134",
+    "template": "BIOS update verification failed. Version expected: <*>, Version found: <*>"
+  },
+  "773": {
+    "event_id": "E773",
+    "template": "hw_random: RNG not detected"
+  },
+  "56": {
+    "event_id": "E56",
+    "template": "mount.panfs error: mount request rejected because client-realm clock skew exceeds <*> seconds"
+  },
+  "1173": {
+    "event_id": "E1173",
+    "template": "DHCPACK from <*>"
+  },
+  "733": {
+    "event_id": "E733",
+    "template": "bound to <*> -- renewal in <*> seconds."
+  },
+  "869": {
+    "event_id": "E869",
+    "template": "UDP: short packet: From <*> <*> to <*>"
+  },
+  "442": {
+    "event_id": "E442",
+    "template": "[INFO]: Change AdminStatus on <*> - new value= <*>"
+  },
+  "1297": {
+    "event_id": "E1297",
+    "template": "System error: (<*>) in <*>, job_start_error from node <*> in job_start_error"
+  },
+  "1298": {
+    "event_id": "E1298",
+    "template": "System error: (<*>) in <*>, abort attempted <*> times in job_start_error. ignoring abort request from node <*>"
+  },
+  "392": {
+    "event_id": "E392",
+    "template": "mount.panfs warning: couldn't ping address <*>"
+  },
+  "233": {
+    "event_id": "E233",
+    "template": "[INFO]: Configuration caused by discovering new ports"
+  },
+  "514": {
+    "event_id": "E514",
+    "template": "authenticated mount request from <*> for <*> (<*>)"
+  },
+  "987": {
+    "event_id": "E987",
+    "template": "DHCPREQUEST on <*> to <*> port <*>"
+  },
+  "341": {
+    "event_id": "E341",
+    "template": "[IB_NET][<*>][<*>]ib0: can't find hw address for hash <*>"
+  },
+  "897": {
+    "event_id": "E897",
+    "template": "SCSI error : <*> return code = <*>"
+  },
+  "1171": {
+    "event_id": "E1171",
+    "template": "Listening on <*>"
+  },
+  "501": {
+    "event_id": "E501",
+    "template": "Wrote <*> deleted host decls to leases file."
+  },
+  "784": {
+    "event_id": "E784",
+    "template": "Wrote <*> leases to leases file."
+  },
+  "410": {
+    "event_id": "E410",
+    "template": "Wrote <*> new dynamic host decls to leases file."
+  },
+  "580": {
+    "event_id": "E580",
+    "template": "end_request: I/O error, dev <*>, sector <*>"
+  },
+  "347": {
+    "event_id": "E347",
+    "template": "in your dhcpd.conf file for the network segment"
+  },
+  "615": {
+    "event_id": "E615",
+    "template": "to which interface <*> is attached. **"
+  },
+  "406": {
+    "event_id": "E406",
+    "template": "you want, please write a subnet declaration"
+  },
+  "441": {
+    "event_id": "E441",
+    "template": "** Ignoring requests on <*>. If this is not what"
+  },
+  "763": {
+    "event_id": "E763",
+    "template": "No subnet declaration for <*> (<*>)."
+  },
+  "311": {
+    "event_id": "E311",
+    "template": "[CONF]: [super]: config interface ib <*> no shutdown"
+  },
+  "572": {
+    "event_id": "E572",
+    "template": "tput: No value for <*> and no -T specified"
+  },
+  "1211": {
+    "event_id": "E1211",
+    "template": "<*> : updated <*>"
+  },
+  "1208": {
+    "event_id": "E1208",
+    "template": "server <*> OK"
+  },
+  "577": {
+    "event_id": "E577",
+    "template": "server <*> not responding, still trying"
+  },
+  "809": {
+    "event_id": "E809",
+    "template": "execvp: Permission denied"
+  },
+  "227": {
+    "event_id": "E227",
+    "template": "kpanfs_thpool: page allocation failure. order:<*>, mode:<*>"
+  },
+  "798": {
+    "event_id": "E798",
+    "template": "using <*>, <*> (pan_sock: timeout)"
+  },
+  "313": {
+    "event_id": "E313",
+    "template": "Kerberos TGT authentication as user <*> accepted for <*>."
+  },
+  "786": {
+    "event_id": "E786",
+    "template": "Node <*> HighMem per-cpu: empty"
+  },
+  "605": {
+    "event_id": "E605",
+    "template": "Swap cache: add <*>, delete <*>, find <*>, race <*>"
+  },
+  "1141": {
+    "event_id": "E1141",
+    "template": "<*> reserved pages"
+  },
+  "1159": {
+    "event_id": "E1159",
+    "template": "Node <*> Normal: <*> = <*>"
+  },
+  "1170": {
+    "event_id": "E1170",
+    "template": "<*> pages shared"
+  },
+  "981": {
+    "event_id": "E981",
+    "template": "Free pages: <*> (<*> HighMem)"
+  },
+  "449": {
+    "event_id": "E449",
+    "template": "[<*>]: no routing required for port guid <*>, lid <*>"
+  },
+  "1200": {
+    "event_id": "E1200",
+    "template": "Free swap: <*>"
+  },
+  "91": {
+    "event_id": "E91",
+    "template": "Active:<*> inactive:<*> dirty:<*> writeback:<*> unstable:<*> free:<*> slab:<*> mapped:<*> pagetables:<*>"
+  },
+  "1206": {
+    "event_id": "E1206",
+    "template": "Node <*> DMA: <*> = <*>"
+  },
+  "1186": {
+    "event_id": "E1186",
+    "template": "<*> pages of RAM"
+  },
+  "1083": {
+    "event_id": "E1083",
+    "template": "<*> pages swap cached"
+  },
+  "1198": {
+    "event_id": "E1198",
+    "template": "Mem-info:"
+  },
+  "422": {
+    "event_id": "E422",
+    "template": "pan_kernel: expected release: <*> release is: <*>"
+  },
+  "315": {
+    "event_id": "E315",
+    "template": "couldn't ping address <*> using <*>, <*> (pan_sock: timeout)"
+  },
+  "951": {
+    "event_id": "E951",
+    "template": "mount.panfs warning:"
+  },
+  "146": {
+    "event_id": "E146",
+    "template": "mount.panfs warning: mounting panfs in an untested environment!!"
+  },
+  "495": {
+    "event_id": "E495",
+    "template": "Mounting local filesystems: succeeded"
+  },
+  "804": {
+    "event_id": "E804",
+    "template": "DHCPDISCOVER on <*> to <*> interval <*>"
+  },
+  "1133": {
+    "event_id": "E1133",
+    "template": "STATS: dropped <*>"
+  },
+  "496": {
+    "event_id": "E496",
+    "template": "Determining IP information for eth0..."
+  },
+  "913": {
+    "event_id": "E913",
+    "template": "ensuring time is synced"
+  },
+  "1237": {
+    "event_id": "E1237",
+    "template": "done."
+  },
+  "291": {
+    "event_id": "E291",
+    "template": "Install: Removing tftpboot installation link from <*>"
+  },
+  "508": {
+    "event_id": "E508",
+    "template": "Kerberos password accepted for user <*> (<*>)."
+  },
+  "385": {
+    "event_id": "E385",
+    "template": "Password authentication for user <*> accepted."
+  },
+  "100": {
+    "event_id": "E100",
+    "template": "BIOS update verification was successful. Version expected: <*>, Version found: <*>"
+  },
+  "655": {
+    "event_id": "E655",
+    "template": "FAIL: rsync service_limit from=<*>"
+  },
+  "785": {
+    "event_id": "E785",
+    "template": "mount: can't get address for <*>"
+  },
+  "1116": {
+    "event_id": "E1116",
+    "template": "Public key <*> used."
+  },
+  "366": {
+    "event_id": "E366",
+    "template": "Public key authentication for user <*> accepted."
+  },
+  "106": {
+    "event_id": "E106",
+    "template": "pan_rpc_native_poll_req: unable to send poll pkt <*> (pan_sock: broken pipe)"
+  },
+  "210": {
+    "event_id": "E210",
+    "template": "THH(<*>): <*>[<*>]: get_fatal_err_syndrome: FW CATASTR ERRBUF[<*>] = <*>"
+  },
+  "37": {
+    "event_id": "E37",
+    "template": "rpc: pan_rpc_request_timeout_engine poll request failed, state <*>, event <*> action <*> rc=<*> (pan_sock: broken pipe)"
+  },
+  "402": {
+    "event_id": "E402",
+    "template": "RTNETLINK answers: Network is unreachable"
+  },
+  "41": {
+    "event_id": "E41",
+    "template": "pan_sam: <*>: error report: cap_handle=<*> op=<*> op_offset=<*> op_length=<*> action_mask=<*> cap_offset=<*> cap_length=<*>"
+  },
+  "1002": {
+    "event_id": "E1002",
+    "template": "no servers reachable"
+  },
+  "9": {
+    "event_id": "E9",
+    "template": "sam raid obsd error on read: local_status <*> (RPC: No response within the timeout period), obsd_error <*> (Success) virtual object <*> index <*>, stor_op <*>, component device <*>(OBSD)"
+  },
+  "181": {
+    "event_id": "E181",
+    "template": "Kernel command line: initrd=<*> console=<*> console=<*>,<*> BOOT_IMAGE=<*>"
+  },
+  "384": {
+    "event_id": "E384",
+    "template": "nfs warning: mount version older than kernel"
+  },
+  "521": {
+    "event_id": "E521",
+    "template": "Kickstart: convert to static ip on boot"
+  },
+  "114": {
+    "event_id": "E114",
+    "template": "THH(<*>): handle_eqe_ib_events: QP event on qpn= <*> event type is <*> (<*>), syndrome=<*>"
+  },
+  "465": {
+    "event_id": "E465",
+    "template": "RAMDISK: Compressed image found at block <*>"
+  },
+  "797": {
+    "event_id": "E797",
+    "template": "VFS: Mounted <*> (<*> filesystem)."
+  },
+  "94": {
+    "event_id": "E94",
+    "template": "checking if image is initramfs...it isn't (no cpio magic); looks like an initrd"
+  },
+  "673": {
+    "event_id": "E673",
+    "template": "the NTP socket is in use, exiting"
+  },
+  "1185": {
+    "event_id": "E1185",
+    "template": "time reset <*> s"
+  },
+  "612": {
+    "event_id": "E612",
+    "template": "[INFO]: IB CliSessionThread PID= <*>"
+  },
+  "198": {
+    "event_id": "E198",
+    "template": "Bootdata ok (command line is initrd=<*> console=<*> BOOT_IMAGE=<*>)"
+  },
+  "103": {
+    "event_id": "E103",
+    "template": "Device: <*>, SMART Failure: HARDWARE IMPENDING FAILURE DATA ERROR RATE TOO HIGH"
+  },
+  "20": {
+    "event_id": "E20",
+    "template": "pan_sam: <*>: error report: failure <*>: <*>(OBSD) osd_op=OP_WRITE offset=<*> length=<*> error=<*> (RPC: No response within the timeout period)"
+  },
+  "909": {
+    "event_id": "E909",
+    "template": "Lustre: <*>:(<*>) Binding <*> <*> to <*>"
+  },
+  "5": {
+    "event_id": "E5",
+    "template": "pan_ips: error -- IPS command timeout command timed out expire_time=<*> now=<*> lifetime=<*> grace_timeouts=<*> cd=<*> session=<*> (connection info not avail <*> (pan_sock: socket not connected)) id=(<*>)"
+  },
+  "790": {
+    "event_id": "E790",
+    "template": "mount to NFS server <*> failed"
+  },
+  "1103": {
+    "event_id": "E1103",
+    "template": ": server is down."
+  },
+  "651": {
+    "event_id": "E651",
+    "template": "can't open <*>: Stale NFS file handle"
+  },
+  "52": {
+    "event_id": "E52",
+    "template": "pan_sam: <*>: unable to report I/O error(s) to SM <*>(SM): <*> (RPC: No response within the timeout period)"
+  },
+  "326": {
+    "event_id": "E326",
+    "template": "MOSAL(<*>): <*>[<*>]: <*>: could not find mm=<*> (pid=<*>) in the hash"
+  },
+  "450": {
+    "event_id": "E450",
+    "template": "[<*>]: Failed to discover port - GUID=<*>, port=<*>"
+  },
+  "549": {
+    "event_id": "E549",
+    "template": "<*>: mkdir failed: Read-only file system"
+  },
+  "288": {
+    "event_id": "E288",
+    "template": "process_limit: processing hard nofile <*> for DEFAULT"
+  },
+  "307": {
+    "event_id": "E307",
+    "template": "mount.panfs: panfs is not configured in the kernel"
+  },
+  "276": {
+    "event_id": "E276",
+    "template": "mount.panfs: couldn't create mtab lock file: <*> errno: <*>"
+  },
+  "369": {
+    "event_id": "E369",
+    "template": "Warning: we failed to resolve data source name <*>"
+  },
+  "1004": {
+    "event_id": "E1004",
+    "template": "<*> (pan_sock: timeout)"
+  },
+  "1172": {
+    "event_id": "E1172",
+    "template": "processor at <*>"
+  },
+  "1227": {
+    "event_id": "E1227",
+    "template": "disk at <*>"
+  },
+  "960": {
+    "event_id": "E960",
+    "template": "Trying to re-exec init"
+  },
+  "145": {
+    "event_id": "E145",
+    "template": "System clock time adjusted to the past. Resetting next wakeup time."
+  },
+  "284": {
+    "event_id": "E284",
+    "template": "THH(<*>): <*>[<*>]: print_track_arr: idx=<*>, token=<*>, counter=<*>"
+  },
+  "1236": {
+    "event_id": "E1236",
+    "template": "tput:"
+  },
+  "650": {
+    "event_id": "E650",
+    "template": "[CONF]: [super]: syslog-server <*>"
+  },
+  "426": {
+    "event_id": "E426",
+    "template": "rpc: request timed out, request <*>, <*> (sync), to <*>"
+  },
+  "152": {
+    "event_id": "E152",
+    "template": "panfs exception: at <*>, <*> (SM: unspecified internal error), rollback: <*>"
+  },
+  "306": {
+    "event_id": "E306",
+    "template": "Clearing orphaned inode <*> (uid=<*>, gid=<*>, mode=<*>, size=<*>)"
+  },
+  "1120": {
+    "event_id": "E1120",
+    "template": "<*> connection from <*>"
+  },
+  "732": {
+    "event_id": "E732",
+    "template": "[INFO]: bSaveConfig=<*>, bSave=<*>"
+  },
+  "107": {
+    "event_id": "E107",
+    "template": "mount.panfs error: cannot find object indicated by path <*> (<*> (bindcache: <*>))"
+  },
+  "503": {
+    "event_id": "E503",
+    "template": "panfs: module license <*> taints kernel."
+  },
+  "27": {
+    "event_id": "E27",
+    "template": "<*> device driver build failed for kernel <*>-<*>. <*> failed to find kernel source at <*>. <*> requires kernel source to build device drivers."
+  },
+  "209": {
+    "event_id": "E209",
+    "template": "MOSAL(<*>): xhpl[<*>]: <*>: MOSAL_mlock_iobuf failed - MT_ENORSC"
+  },
+  "807": {
+    "event_id": "E807",
+    "template": "<*>(<*>): Unknown cmd <*> <*> <*> on <*>"
+  },
+  "283": {
+    "event_id": "E283",
+    "template": "DHCPOFFER from <*> <*> <*> <*> dhclient: DHCPREQUEST on eth0 to <*> port <*>"
+  },
+  "126": {
+    "event_id": "E126",
+    "template": "[INFO]: Configuration caused by previous GET/SET operation failures"
+  },
+  "150": {
+    "event_id": "E150",
+    "template": "EXT3-fs error (device <*>) in start_transaction: Journal has aborted"
+  },
+  "66": {
+    "event_id": "E66",
+    "template": "[<*>]: Active port(s) now in INIT state node=<*>, port=<*>, state=<*>, neighbor node=<*>, port=<*>, state=<*>"
+  },
+  "915": {
+    "event_id": "E915",
+    "template": "Idle timeout exceeded."
+  },
+  "500": {
+    "event_id": "E500",
+    "template": "[CONF]: [super]: config ntp server-one <*>"
+  },
+  "6": {
+    "event_id": "E6",
+    "template": "obsd_client: obsd_client: command timed out <*> options=<*> obj_id=<*> starting_byte=<*> length=<*> get_attributes=<*> realmname <*> dev_id=<*> flags=<*> res_buffer=(<*>) callback(<*>, <*>, <*>) allocated_by_sam=<*>"
+  },
+  "606": {
+    "event_id": "E606",
+    "template": "Lustre: <*>:(<*>) maximum lustre stack <*>"
+  },
+  "445": {
+    "event_id": "E445",
+    "template": "THH(<*>): XHH_mrwm_register_internal: rc=<*>"
+  },
+  "157": {
+    "event_id": "E157",
+    "template": "THH(<*>): <*>[<*>]: MOSAL_iobuf_register failed: va=<*>, size=<*> (<*>:MT_ENORSC"
+  },
+  "275": {
+    "event_id": "E275",
+    "template": "ext3_orphan_cleanup: deleting unreferenced inode <*>"
+  },
+  "155": {
+    "event_id": "E155",
+    "template": "VIPKL(<*>): Inside CQM_create_cq: Unable to register HH CQ. hh_ret = <*>"
+  },
+  "931": {
+    "event_id": "E931",
+    "template": "ACPI: PM-Timer IO Port: <*>"
+  },
+  "127": {
+    "event_id": "E127",
+    "template": "ts_ipoib device <*> does not seem to be present, delaying initialization."
+  },
+  "716": {
+    "event_id": "E716",
+    "template": "Bringing up interface <*>: failed"
+  },
+  "482": {
+    "event_id": "E482",
+    "template": "Buffer I/O error on device <*>, logical block <*>"
+  },
+  "31": {
+    "event_id": "E31",
+    "template": "pan_sam: <*>: error report: failure <*>: <*>(OBSD) osd_op=OP_WRITE offset=<*> length=<*> error=<*> (OBSD: Capability has expired)"
+  },
+  "285": {
+    "event_id": "E285",
+    "template": "<*>: <*>: fl=<*>, mode=<*>: CHR: dev=<*>, ino=<*>, nlink=<*>, u/gid=<*>, size=<*>"
+  },
+  "649": {
+    "event_id": "E649",
+    "template": "lost page write due to I/O error on <*>"
+  },
+  "136": {
+    "event_id": "E136",
+    "template": "[<*>]: Skip node= <*>, port= <*> bringup because topology is stale, no response"
+  },
+  "123": {
+    "event_id": "E123",
+    "template": "Instrumentation Service EventID: <*> BMC Ambient Temp Main System Chassis <*>"
+  },
+  "885": {
+    "event_id": "E885",
+    "template": "reading settings from '<*>'"
+  },
+  "729": {
+    "event_id": "E729",
+    "template": "mount: <*> already mounted or <*> busy"
+  },
+  "48": {
+    "event_id": "E48",
+    "template": "fs_client_writepage: llapi_io_sync failed (<*> (SM: unspecified internal error)); data <*> be dropped"
+  },
+  "23": {
+    "event_id": "E23",
+    "template": "fs_client_release: last call to write_page on object <*> failed with <*> (SM: unspecified internal error); data <*> be dropped (line <*>)"
+  },
+  "354": {
+    "event_id": "E354",
+    "template": "mount: according to mtab, <*> is already mounted on <*>"
+  },
+  "180": {
+    "event_id": "E180",
+    "template": "<*>: low on space (SMTP-DAEMON needs <*> bytes + <*> blocks in <*>), max avail: <*>"
+  },
+  "12": {
+    "event_id": "E12",
+    "template": "Instrumentation Service EventID: <*> Voltage sensor detected a failure value Sensor location: <*> Chassis location: <*> Previous state was: <*> Discrete voltage state: <*>"
+  },
+  "425": {
+    "event_id": "E425",
+    "template": "[<*>]: Detect switch (LID= <*>) port state change"
+  },
+  "234": {
+    "event_id": "E234",
+    "template": "[INFO]: connected to watchd service, sent first pulse."
+  },
+  "567": {
+    "event_id": "E567",
+    "template": "PCI interrupt <*>[<*>] -> GSI <*> (level, <*>) -> IRQ <*>"
+  },
+  "10": {
+    "event_id": "E10",
+    "template": "Instrumentation Service EventID: <*> Voltage sensor returned to a normal value Sensor location: <*> Chassis location: <*> Previous state was: <*> Discrete voltage state: <*>"
+  },
+  "620": {
+    "event_id": "E620",
+    "template": "[<*>]: Switch reported state change"
+  },
+  "33": {
+    "event_id": "E33",
+    "template": "pan_ips: error -- cmd_destroy: destroying aborted (rc=<*> (IPS: session got unknown error callback)) command <*> (<*>)"
+  },
+  "517": {
+    "event_id": "E517",
+    "template": "[<*>]: Failed to set SwitchInfo on switch=<*>"
+  },
+  "682": {
+    "event_id": "E682",
+    "template": "<*> rejecting I/O to offline device"
+  },
+  "1213": {
+    "event_id": "E1213",
+    "template": "input: <*> on <*>"
+  },
+  "727": {
+    "event_id": "E727",
+    "template": "PCI Interrupt Routing Table [<*>]"
+  },
+  "720": {
+    "event_id": "E720",
+    "template": "sendto(<*>): Bad file descriptor"
+  },
+  "87": {
+    "event_id": "E87",
+    "template": "[INFO]: Program switch port state to down, node=<*>, port=<*>, due to non-responding CA"
+  },
+  "390": {
+    "event_id": "E390",
+    "template": "mount to NFS server <*> failed: server is down."
+  },
+  "538": {
+    "event_id": "E538",
+    "template": "Kerberos authentication as <*> denied for <*>"
+  },
+  "192": {
+    "event_id": "E192",
+    "template": "INFO: cannot stat file '<*>', errno: <*> (No such file or directory)"
+  },
+  "1225": {
+    "event_id": "E1225",
+    "template": "<*> LOGIN ON <*>"
+  },
+  "260": {
+    "event_id": "E260",
+    "template": "Connection broken to AF_INET(<*>), reopening in <*> seconds"
+  },
+  "1209": {
+    "event_id": "E1209",
+    "template": "<*> is not set"
+  },
+  "376": {
+    "event_id": "E376",
+    "template": "megaraid mbox: Wait for <*> commands to complete:<*>"
+  },
+  "99": {
+    "event_id": "E99",
+    "template": "warning: master_wakeup_timer_event: service <*>: Too many open files in system"
+  },
+  "212": {
+    "event_id": "E212",
+    "template": "mount: <*> failed, reason given by server: Permission denied"
+  },
+  "1016": {
+    "event_id": "E1016",
+    "template": "MFSLoadDataFile(<*>,<*>)"
+  },
+  "533": {
+    "event_id": "E533",
+    "template": "WARNING: cannot load FS file <*> for slot <*>"
+  },
+  "597": {
+    "event_id": "E597",
+    "template": "WARNING: cannot open FS data file '<*>'"
+  },
+  "472": {
+    "event_id": "E472",
+    "template": "Lustre: OBD class driver Build Version: <*>, <*>"
+  },
+  "86": {
+    "event_id": "E86",
+    "template": "Lustre: Routing socket NAL loaded (Routing disabled, initial mem <*>, incarnation <*>)"
+  },
+  "898": {
+    "event_id": "E898",
+    "template": "[INFO]: IB SM Sweep PID= <*>, <*>"
+  },
+  "803": {
+    "event_id": "E803",
+    "template": "PCI Interrupt Link [<*>] (IRQs <*>) <*>"
+  },
+  "378": {
+    "event_id": "E378",
+    "template": "(<*>) MAIL (mailed <*> bytes of output but got status <*> )"
+  },
+  "468": {
+    "event_id": "E468",
+    "template": "dcdbas: module license <*> taints kernel."
+  },
+  "130": {
+    "event_id": "E130",
+    "template": "pan_ips: error -- tx sched send next, <*> (pan_sock: timeout), err_loc=<*>, <*>"
+  },
+  "89": {
+    "event_id": "E89",
+    "template": "pan_ips: error -- tx sched dequeue and send mod, <*> (pan_sock: timeout), err_loc=<*>, <*>"
+  },
+  "156": {
+    "event_id": "E156",
+    "template": "pan_ips: error -- tx sched send, <*> (pan_sock: timeout), err_loc=<*>, <*>"
+  },
+  "30": {
+    "event_id": "E30",
+    "template": "pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=<*> (IPS: session got unknown error callback)) command <*>"
+  },
+  "795": {
+    "event_id": "E795",
+    "template": "[INFO]: IB SM Heartbeat PID= <*>"
+  },
+  "434": {
+    "event_id": "E434",
+    "template": "[INFO]: ib_sm connect to watchdog manager"
+  },
+  "828": {
+    "event_id": "E828",
+    "template": "[INFO]: IB MGR connected to <*>"
+  },
+  "469": {
+    "event_id": "E469",
+    "template": "[INFO]: IB MGR finished configuring SM (<*>)"
+  },
+  "367": {
+    "event_id": "E367",
+    "template": "[INFO]: IB MGR sent save config command to SM (<*>)"
+  },
+  "485": {
+    "event_id": "E485",
+    "template": "[INFO]: process started: app=<*>, pid=<*>, fd=<*>"
+  },
+  "166": {
+    "event_id": "E166",
+    "template": "[INFO]: Master SM Proceeds with configuration of entire subnet"
+  },
+  "617": {
+    "event_id": "E617",
+    "template": "[INFO]: SM Role selection result: <*>"
+  },
+  "79": {
+    "event_id": "E79",
+    "template": "[INFO]: Transitioning to Master, DB was not synchronized with previous Master Guid <*>"
+  },
+  "1099": {
+    "event_id": "E1099",
+    "template": "MUGetIndex(<*>,<*>,<*>,<*>)"
+  },
+  "955": {
+    "event_id": "E955",
+    "template": "lockd -KILL succeeded"
+  },
+  "350": {
+    "event_id": "E350",
+    "template": "[CONF]: [super]: config no ib sm subnet-prefix <*>"
+  },
+  "531": {
+    "event_id": "E531",
+    "template": "[INFO]: remove appId <*> from watchd list."
+  },
+  "681": {
+    "event_id": "E681",
+    "template": "[INFO]: ib_sm.x destroyed pid=<*>"
+  },
+  "334": {
+    "event_id": "E334",
+    "template": "[CONF]: [super]: config ib sm subnet-prefix fe:<*>"
+  },
+  "216": {
+    "event_id": "E216",
+    "template": "[<*>]: Failed to GetPortInfo() - hop_count: <*>, direct_path: <*>"
+  },
+  "269": {
+    "event_id": "E269",
+    "template": "<*>: <*>: fl=<*>, mode=<*>: FIFO: dev=<*>, ino=<*>, nlink=<*>, u/gid=<*>, size=<*>"
+  },
+  "264": {
+    "event_id": "E264",
+    "template": "Password authentication for user <*> failed (from <*> port <*>)."
+  },
+  "506": {
+    "event_id": "E506",
+    "template": "Lustre: Lustre Lite Client File System; <*>"
+  },
+  "454": {
+    "event_id": "E454",
+    "template": "<*>: <*>: fl=<*>, mode=<*>: SOCK localhost->[[UNIX: <*>]]"
+  },
+  "305": {
+    "event_id": "E305",
+    "template": "Lustre: <*>:(<*>) previously skipped <*> similar messages"
+  },
+  "827": {
+    "event_id": "E827",
+    "template": "INFO: located parameter '<*>'"
+  },
+  "685": {
+    "event_id": "E685",
+    "template": "Local password failed for user <*>."
+  },
+  "754": {
+    "event_id": "E754",
+    "template": "PAM password failed for user <*>."
+  },
+  "73": {
+    "event_id": "E73",
+    "template": "auths-pam: PAM subprocess returned packet SSH_PAM_OP_ERROR. (err_num: <*>, err_msg: <*>)"
+  },
+  "587": {
+    "event_id": "E587",
+    "template": "PAM transaction resulted in error."
+  },
+  "543": {
+    "event_id": "E543",
+    "template": "[<*>]: IB node <*> port <*> had discovery timeout"
+  },
+  "429": {
+    "event_id": "E429",
+    "template": "[<*>]: Failed to get PortInfo from IB node <*> port <*>"
+  },
+  "585": {
+    "event_id": "E585",
+    "template": "Wait for ready failed before probe !"
+  },
+  "792": {
+    "event_id": "E792",
+    "template": "Registered protocol family <*>"
+  },
+  "190": {
+    "event_id": "E190",
+    "template": "invcol Error: Cannot create directory <*>. Please ensure there"
+  },
+  "1101": {
+    "event_id": "E1101",
+    "template": "is enough space."
+  },
+  "1179": {
+    "event_id": "E1179",
+    "template": "<*> - <*> (reserved)"
+  },
+  "1203": {
+    "event_id": "E1203",
+    "template": "<*>: Clearing"
+  },
+  "90": {
+    "event_id": "E90",
+    "template": "<*>: SYSERR(<*>): collect: Cannot write <*> (bfcommit, uid=<*>, gid=<*>): Read-only file system"
+  },
+  "746": {
+    "event_id": "E746",
+    "template": "Received SNMP packet(s) from <*>"
+  },
+  "76": {
+    "event_id": "E76",
+    "template": "<*>: SYSERR(<*>): queueup: cannot create queue file <*>, euid=<*>, fd=<*>, fp=<*>: Read-only file system"
+  },
+  "1210": {
+    "event_id": "E1210",
+    "template": "L2 cache: <*>"
+  },
+  "761": {
+    "event_id": "E761",
+    "template": "Trace cache: <*> uops, L1 D cache: <*>"
+  },
+  "453": {
+    "event_id": "E453",
+    "template": "orphaned inode <*> (uid=<*>, gid=<*>, mode=<*>, size=<*>)"
+  },
+  "161": {
+    "event_id": "E161",
+    "template": "Error accepting AF_UNIX connection, opened connections: <*>, max: <*>"
+  },
+  "34": {
+    "event_id": "E34",
+    "template": "[KERNEL_IB][<*>][<*>]<*>: VAPI_query_hca_port_prop failed, return code = <*> (Fatal error (Local Catastrophic Error))"
+  },
+  "186": {
+    "event_id": "E186",
+    "template": "pan_ips: error -- cmd scsi, <*> (pan_sock: timeout), err_loc=<*>, <*>"
+  },
+  "929": {
+    "event_id": "E929",
+    "template": "Physical Processor ID: <*>"
+  },
+  "1205": {
+    "event_id": "E1205",
+    "template": "LOGIN ON <*> BY <*>"
+  },
+  "932": {
+    "event_id": "E932",
+    "template": "(C) <*> Netfilter core team"
+  },
+  "196": {
+    "event_id": "E196",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_query_port_prop: Device in FATAL state"
+  },
+  "513": {
+    "event_id": "E513",
+    "template": "LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])"
+  },
+  "78": {
+    "event_id": "E78",
+    "template": "[<*>]: Clean up SA resources for port forced down due to LID conflict, node - GUID=<*>, port=<*>"
+  },
+  "464": {
+    "event_id": "E464",
+    "template": "nfs: server <*> not responding, still trying"
+  },
+  "888": {
+    "event_id": "E888",
+    "template": "Processor <*> (supports C1)"
+  },
+  "900": {
+    "event_id": "E900",
+    "template": "[INFO]: IB SM worker <*> PID= <*>"
+  },
+  "537": {
+    "event_id": "E537",
+    "template": "LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)"
+  },
+  "14": {
+    "event_id": "E14",
+    "template": "pan_ips: error -- tx sched dequeue and send mod, <*> (pan_sock: connection reset by peer), err_loc=<*>, <*>/release/build/panfs/ips/pan_ips_tx_sched.c:<*>"
+  },
+  "70": {
+    "event_id": "E70",
+    "template": "pan_ips: error -- tx sched send next, <*> (pan_sock: connection reset by peer), err_loc=<*>, <*>"
+  },
+  "83": {
+    "event_id": "E83",
+    "template": "pan_ips: error -- tx sched send, <*> (pan_sock: connection reset by peer), err_loc=<*>, <*>"
+  },
+  "404": {
+    "event_id": "E404",
+    "template": "mounted filesystem with ordered data mode."
+  },
+  "364": {
+    "event_id": "E364",
+    "template": "dcdbas: no version for <*> found: kernel tainted."
+  },
+  "162": {
+    "event_id": "E162",
+    "template": "<*>: SYSERR(<*>): returntosender: cannot select queue for postmaster"
+  },
+  "1008": {
+    "event_id": "E1008",
+    "template": "(CRON) STAT FAILED (<*>)"
+  },
+  "88": {
+    "event_id": "E88",
+    "template": "pan_ips: error -- cmd taskmgmt, <*> (pan_sock: connection reset by peer), err_loc=<*>, <*>"
+  },
+  "39": {
+    "event_id": "E39",
+    "template": "pan_ips: error -- cmd_timeout_task_query: couldn't send task_query <*> (pan_sock: connection reset by peer)"
+  },
+  "753": {
+    "event_id": "E753",
+    "template": "INFO: detected array index '<*>'"
+  },
+  "582": {
+    "event_id": "E582",
+    "template": "IOAPIC (id[<*>] address[<*>] gsi_base[<*>])"
+  },
+  "1204": {
+    "event_id": "E1204",
+    "template": "<*> - <*> (usable)"
+  },
+  "271": {
+    "event_id": "E271",
+    "template": "WARNING: Setting tty modes failed: Invalid argument"
+  },
+  "182": {
+    "event_id": "E182",
+    "template": "[<*>]: Failed to bring port to ACTIVE for node=<*>, port=<*>, mad status <*>"
+  },
+  "610": {
+    "event_id": "E610",
+    "template": "Remounting filesystem read-only"
+  },
+  "299": {
+    "event_id": "E299",
+    "template": "EXT3-fs error (device <*>): <*>: Detected aborted journal"
+  },
+  "101": {
+    "event_id": "E101",
+    "template": "fs_client_writepage: llapi_io_sync failed (<*> (fs client: <*>)); data <*> be dropped"
+  },
+  "745": {
+    "event_id": "E745",
+    "template": "open (<*>): Stale NFS file handle"
+  },
+  "43": {
+    "event_id": "E43",
+    "template": "fs_client_release: last call to write_page on object <*> failed with <*> (fs client: <*>); data <*> be dropped (line <*>)"
+  },
+  "219": {
+    "event_id": "E219",
+    "template": "Losing some ticks... checking if CPU frequency changed."
+  },
+  "1219": {
+    "event_id": "E1219",
+    "template": "<*> called."
+  },
+  "28": {
+    "event_id": "E28",
+    "template": "obsd_client: obsd_client: command timed out GETATTR options=<*>=<*> flags=<*> res_buffer=(<*>) callback(<*>) allocated_by_sam=<*>"
+  },
+  "104": {
+    "event_id": "E104",
+    "template": "Bootdata ok (command line is initrd=<*> console=<*> console=<*>,<*> quiet BOOT_IMAGE=<*>)"
+  },
+  "794": {
+    "event_id": "E794",
+    "template": "Aborting journal on device <*>."
+  },
+  "1071": {
+    "event_id": "E1071",
+    "template": "<*>: <*>: <*>: NIC Link is Down"
+  },
+  "69": {
+    "event_id": "E69",
+    "template": "[<*>]: Force neighbor port (node=<*>, port=<*>) to DOWN because state(<*>) should be active but not."
+  },
+  "340": {
+    "event_id": "E340",
+    "template": "Timed out waiting for hotplug event <*>. Rebasing to <*>"
+  },
+  "268": {
+    "event_id": "E268",
+    "template": "usb <*>: usbfs: USBDEVFS_CONTROL failed cmd <*> rqt <*> rq <*> len <*> ret <*>"
+  },
+  "628": {
+    "event_id": "E628",
+    "template": "[<*>]: Failed to read MFT for switch=<*>"
+  },
+  "95": {
+    "event_id": "E95",
+    "template": "[<*>]: Force port (node=<*>, port=<*>) to DOWN because state(<*>) should be active but not."
+  },
+  "289": {
+    "event_id": "E289",
+    "template": "not allocating divert_blk for non-ethernet device <*>"
+  },
+  "632": {
+    "event_id": "E632",
+    "template": "LustreError: <*>:(<*>) no device for: <*>"
+  },
+  "715": {
+    "event_id": "E715",
+    "template": "Key exchange failed in remote: <*>"
+  },
+  "327": {
+    "event_id": "E327",
+    "template": "Remote host disconnected: Key exchange failed."
+  },
+  "769": {
+    "event_id": "E769",
+    "template": "MCredProcessConfig(<*>,<*>,<*>,<*>,<*>,<*>)"
+  },
+  "1075": {
+    "event_id": "E1075",
+    "template": "... autorun DONE."
+  },
+  "776": {
+    "event_id": "E776",
+    "template": "Autodetecting RAID arrays."
+  },
+  "1182": {
+    "event_id": "E1182",
+    "template": "autorun ..."
+  },
+  "788": {
+    "event_id": "E788",
+    "template": "syslog-ng version <*> starting"
+  },
+  "1148": {
+    "event_id": "E1148",
+    "template": "nfs: server <*> OK"
+  },
+  "158": {
+    "event_id": "E158",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_fatal_error: device=<*>, err_type=<*>, syndrome=<*>"
+  },
+  "122": {
+    "event_id": "E122",
+    "template": "Your time source seems to be instable or some driver is hogging interupts"
+  },
+  "1241": {
+    "event_id": "E1241",
+    "template": "rip <*>"
+  },
+  "748": {
+    "event_id": "E748",
+    "template": "syslog-ng version <*> going down"
+  },
+  "344": {
+    "event_id": "E344",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_halt_hca: HALT HCA returned <*>"
+  },
+  "142": {
+    "event_id": "E142",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_fatal_err_thread: RECEIVED FATAL ERROR WAKEUP"
+  },
+  "231": {
+    "event_id": "E231",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_fatal_error: Fatal Event Syndrome = <*>"
+  },
+  "845": {
+    "event_id": "E845",
+    "template": "warning: many lost ticks."
+  },
+  "178": {
+    "event_id": "E178",
+    "template": "<*>: SYSERR(<*>): Error writing control file <*>: No space left on device"
+  },
+  "226": {
+    "event_id": "E226",
+    "template": "<*>: SYSERR(<*>): putbody: write error: No space left on device"
+  },
+  "217": {
+    "event_id": "E217",
+    "template": "LustreError: <*>:(<*>) previously skipped <*> similar messages"
+  },
+  "1070": {
+    "event_id": "E1070",
+    "template": "Can't open <*> for job <*>: <*>"
+  },
+  "979": {
+    "event_id": "E979",
+    "template": "MSRProcessConfig(<*>,<*>)"
+  },
+  "195": {
+    "event_id": "E195",
+    "template": "[KERNEL_IB][ib_cache_update][<*>]port_query failed (<*>) for <*>"
+  },
+  "510": {
+    "event_id": "E510",
+    "template": "connect to <*>: Connection timed out (port <*>)"
+  },
+  "914": {
+    "event_id": "E914",
+    "template": "no IPv6 routers present"
+  },
+  "1036": {
+    "event_id": "E1036",
+    "template": "Floppy drive(s): <*> is <*>"
+  },
+  "19": {
+    "event_id": "E19",
+    "template": "Instrumentation Service EventID: <*> Memory device status is critical Memory device location: <*> Possible memory module event cause:<*>"
+  },
+  "124": {
+    "event_id": "E124",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_fatal_err_thread: FATAL ERROR DETECTED IN WAKE-UP"
+  },
+  "627": {
+    "event_id": "E627",
+    "template": "Failed password for <*> from <*> port <*> ssh2"
+  },
+  "1072": {
+    "event_id": "E1072",
+    "template": "MUGetIndexCI(<*>,<*>,<*>)"
+  },
+  "396": {
+    "event_id": "E396",
+    "template": "Lustre: Routing socket <*> unloaded (final mem <*>)"
+  },
+  "891": {
+    "event_id": "E891",
+    "template": "Lustre: Echo OBD driver; <*>"
+  },
+  "75": {
+    "event_id": "E75",
+    "template": "<*>: SYSERR(<*>): queueup: cannot create queue file <*>, euid=<*>, fd=<*>, fp=<*>: No space left on device"
+  },
+  "551": {
+    "event_id": "E551",
+    "template": "Unmounting NFS filesystems (retry): <*>"
+  },
+  "1122": {
+    "event_id": "E1122",
+    "template": "<*> (Release Date: <*>)"
+  },
+  "555": {
+    "event_id": "E555",
+    "template": "Changing permissions on special file <*>"
+  },
+  "255": {
+    "event_id": "E255",
+    "template": "[WARN]: CLI output failed with error <*>. Exiting thread."
+  },
+  "852": {
+    "event_id": "E852",
+    "template": "ts_ip2pr: Unknown symbol <*>"
+  },
+  "476": {
+    "event_id": "E476",
+    "template": "[INFO]: event loop conn local to <*>(new fd=<*>)"
+  },
+  "314": {
+    "event_id": "E314",
+    "template": "[INFO]: accepted new conn to listening fd <*>(new fd=<*>)"
+  },
+  "820": {
+    "event_id": "E820",
+    "template": "started, listening on port <*>"
+  },
+  "174": {
+    "event_id": "E174",
+    "template": "Remote host disconnected: Authentication cancelled by user."
+  },
+  "333": {
+    "event_id": "E333",
+    "template": "WARNING: Could not write <*>: No space left on device"
+  },
+  "159": {
+    "event_id": "E159",
+    "template": "EXT2-fs warning: mounting unchecked fs, running <*> is recommended"
+  },
+  "592": {
+    "event_id": "E592",
+    "template": "authentication cancelled by user: <*>"
+  },
+  "1217": {
+    "event_id": "E1217",
+    "template": "exiting"
+  },
+  "110": {
+    "event_id": "E110",
+    "template": "Remote host disconnected: No further authentication methods available."
+  },
+  "387": {
+    "event_id": "E387",
+    "template": "no more authentication methods on remote: '<*>'"
+  },
+  "653": {
+    "event_id": "E653",
+    "template": "INFO: parameter <*> not processed"
+  },
+  "1093": {
+    "event_id": "E1093",
+    "template": "Power Button (<*>) [<*>]"
+  },
+  "943": {
+    "event_id": "E943",
+    "template": "<*> <*>-byte hdwr sectors (<*> MB)"
+  },
+  "1001": {
+    "event_id": "E1001",
+    "template": "Disabled at runtime."
+  },
+  "678": {
+    "event_id": "E678",
+    "template": "Unregistering netfilter hooks"
+  },
+  "595": {
+    "event_id": "E595",
+    "template": "Direct-Access ANSI SCSI revision: <*>"
+  },
+  "717": {
+    "event_id": "E717",
+    "template": "Processor ANSI SCSI revision: <*>"
+  },
+  "896": {
+    "event_id": "E896",
+    "template": "PE/PV Model: <*> SCSI BP Rev: <*>"
+  },
+  "873": {
+    "event_id": "E873",
+    "template": "<*>-ioctl (<*>-<*>-<*>) initialised: <*>"
+  },
+  "771": {
+    "event_id": "E771",
+    "template": "no floppy controllers found"
+  },
+  "1106": {
+    "event_id": "E1106",
+    "template": "RNG not detected"
+  },
+  "728": {
+    "event_id": "E728",
+    "template": "fw version:[<*>] bios version:[<*>]"
+  },
+  "665": {
+    "event_id": "E665",
+    "template": "probe new device <*>: bus <*>:slot <*>:func <*>"
+  },
+  "843": {
+    "event_id": "E843",
+    "template": "LSI Logic MegaRAID driver"
+  },
+  "320": {
+    "event_id": "E320",
+    "template": "scanning scsi channel <*> [Phy <*>] for non-raid devices"
+  },
+  "295": {
+    "event_id": "E295",
+    "template": "scanning scsi channel <*> [virtual] for logical drives"
+  },
+  "876": {
+    "event_id": "E876",
+    "template": "check pass; user unknown"
+  },
+  "618": {
+    "event_id": "E618",
+    "template": "WARNING: DNS lookup failed for \"<*>\"."
+  },
+  "1218": {
+    "event_id": "E1218",
+    "template": "Aborted"
+  },
+  "1098": {
+    "event_id": "E1098",
+    "template": "MCPRestore(<*>,<*>,<*>,<*>)"
+  },
+  "949": {
+    "event_id": "E949",
+    "template": "last server has exited"
+  },
+  "735": {
+    "event_id": "E735",
+    "template": "unexporting all filesystems"
+  },
+  "1194": {
+    "event_id": "E1194",
+    "template": "(supports <*> <*> <*>)"
+  },
+  "1145": {
+    "event_id": "E1145",
+    "template": "<*> (order <*>, <*> bytes)"
+  },
+  "581": {
+    "event_id": "E581",
+    "template": "routing cache hash table of <*> buckets, <*>"
+  },
+  "756": {
+    "event_id": "E756",
+    "template": "PCI Hot Plug PCI Core version: <*>"
+  },
+  "316": {
+    "event_id": "E316",
+    "template": "Using software bounce buffering for IO (SWIOTLB)"
+  },
+  "838": {
+    "event_id": "E838",
+    "template": "<*> RAM disks of <*> size <*> blocksize"
+  },
+  "740": {
+    "event_id": "E740",
+    "template": "Registering netfilter hooks"
+  },
+  "624": {
+    "event_id": "E624",
+    "template": "<*> driver <*> ports, IRQ sharing enabled"
+  },
+  "418": {
+    "event_id": "E418",
+    "template": "Hash tables configured (established <*> bind <*>)"
+  },
+  "1187": {
+    "event_id": "E1187",
+    "template": "Disk quotas <*>"
+  },
+  "766": {
+    "event_id": "E766",
+    "template": "MegaRAID Model: LD <*> RAID1 <*> Rev: <*>"
+  },
+  "1166": {
+    "event_id": "E1166",
+    "template": "initialized"
+  },
+  "458": {
+    "event_id": "E458",
+    "template": "initializing netlink socket (disabled)"
+  },
+  "814": {
+    "event_id": "E814",
+    "template": "Installing public key data"
+  },
+  "540": {
+    "event_id": "E540",
+    "template": "md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>"
+  },
+  "690": {
+    "event_id": "E690",
+    "template": "<*> mouse device common for all mice"
+  },
+  "1157": {
+    "event_id": "E1157",
+    "template": "<*> AUX port at <*> irq <*>"
+  },
+  "413": {
+    "event_id": "E413",
+    "template": "Did not receive identification string from <*>"
+  },
+  "242": {
+    "event_id": "E242",
+    "template": "warning: <*>: remove <*> from active: No such file or directory"
+  },
+  "62": {
+    "event_id": "E62",
+    "template": "kerberos-<*> authentication failed. Login to account <*> not allowed or account non-existent."
+  },
+  "265": {
+    "event_id": "E265",
+    "template": "[<*>]: Failed to get PORT GUID for CA=<*>, port=<*>, no response"
+  },
+  "930": {
+    "event_id": "E930",
+    "template": "INFO: new class <*> added"
+  },
+  "359": {
+    "event_id": "E359",
+    "template": "Osa: <*>: getPortValue failed port=<*> location=<*> ra=<*>"
+  },
+  "519": {
+    "event_id": "E519",
+    "template": "Shutting down NFS services: succeeded"
+  },
+  "947": {
+    "event_id": "E947",
+    "template": "DSDT (<*> DELL PE BKC <*> MSFT <*>) @ <*>"
+  },
+  "946": {
+    "event_id": "E946",
+    "template": "FADT (<*> DELL PE BKC <*> MSFT <*>) @ <*>"
+  },
+  "945": {
+    "event_id": "E945",
+    "template": "HPET (<*> DELL PE BKC <*> MSFT <*>) @ <*>"
+  },
+  "1156": {
+    "event_id": "E1156",
+    "template": "HPET id: <*> base: <*>"
+  },
+  "377": {
+    "event_id": "E377",
+    "template": "INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)"
+  },
+  "996": {
+    "event_id": "E996",
+    "template": "Interpreter enabled"
+  },
+  "1057": {
+    "event_id": "E1057",
+    "template": "Local APIC address <*>"
+  },
+  "1038": {
+    "event_id": "E1038",
+    "template": "PCI Root Bridge [<*>] (<*>)"
+  },
+  "1030": {
+    "event_id": "E1030",
+    "template": "Subsystem revision <*>"
+  },
+  "590": {
+    "event_id": "E590",
+    "template": "Using IOAPIC for interrupt routing"
+  },
+  "1178": {
+    "event_id": "E1178",
+    "template": "<*> - <*> (ACPI data)"
+  },
+  "1233": {
+    "event_id": "E1233",
+    "template": "colour <*> <*>"
+  },
+  "345": {
+    "event_id": "E345",
+    "template": "<*> available (<*> kernel code, <*> reserved, <*> data, <*> init)"
+  },
+  "816": {
+    "event_id": "E816",
+    "template": "Probing PCI hardware (bus <*>)"
+  },
+  "1010": {
+    "event_id": "E1010",
+    "template": "Transparent bridge - <*>"
+  },
+  "1084": {
+    "event_id": "E1084",
+    "template": "Using MMCONFIG at <*>"
+  },
+  "859": {
+    "event_id": "E859",
+    "template": "Using configuration type <*>"
+  },
+  "1132": {
+    "event_id": "E1132",
+    "template": "Initializing."
+  },
+  "779": {
+    "event_id": "E779",
+    "template": "Starting in permissive mode"
+  },
+  "1216": {
+    "event_id": "E1216",
+    "template": "passed."
+  },
+  "1238": {
+    "event_id": "E1238",
+    "template": "v2.<*> (<*>)"
+  },
+  "1229": {
+    "event_id": "E1229",
+    "template": "<*> usecs."
+  },
+  "430": {
+    "event_id": "E430",
+    "template": "Registering secondary module capability"
+  },
+  "1228": {
+    "event_id": "E1228",
+    "template": "<*> msecs."
+  },
+  "881": {
+    "event_id": "E881",
+    "template": "Detected <*> MHz processor."
+  },
+  "1006": {
+    "event_id": "E1006",
+    "template": "Using <*> MHz HPET timer."
+  },
+  "711": {
+    "event_id": "E711",
+    "template": "Using HPET based timekeeping."
+  },
+  "164": {
+    "event_id": "E164",
+    "template": "authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>"
+  },
+  "830": {
+    "event_id": "E830",
+    "template": "TCP: drop open request from <*>"
+  },
+  "121": {
+    "event_id": "E121",
+    "template": "Remote host disconnected: Disconnect requested by Windows SSH Client."
+  },
+  "436": {
+    "event_id": "E436",
+    "template": "disconnected by application in remote: '<*>'"
+  },
+  "72": {
+    "event_id": "E72",
+    "template": "gssapi authentication failed. Login to account <*> not allowed or account non-existent."
+  },
+  "117": {
+    "event_id": "E117",
+    "template": "pan_sam: <*>: unable to report I/O error(s) to SM <*>(SM): <*> (SM: object not found)"
+  },
+  "129": {
+    "event_id": "E129",
+    "template": "fs_client: end_write_length > pannode->attribs.cached_length (<*> > <*>)"
+  },
+  "602": {
+    "event_id": "E602",
+    "template": "signal_no_reset: signal <*> had flags <*>"
+  },
+  "689": {
+    "event_id": "E689",
+    "template": "CentOS-<*> (Kernel Module GPG key)"
+  },
+  "251": {
+    "event_id": "E251",
+    "template": "root=<*> initrd=<*> console=<*> console=<*> fastboot BOOT_IMAGE=<*>"
+  },
+  "680": {
+    "event_id": "E680",
+    "template": "Compressed image found at block <*>"
+  },
+  "940": {
+    "event_id": "E940",
+    "template": "Mounted <*> (<*> filesystem)."
+  },
+  "666": {
+    "event_id": "E666",
+    "template": "Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>"
+  },
+  "1017": {
+    "event_id": "E1017",
+    "template": "<*>-rh1 (Release Date: <*>)"
+  },
+  "736": {
+    "event_id": "E736",
+    "template": "registered new driver hiddev"
+  },
+  "862": {
+    "event_id": "E862",
+    "template": "probe of <*> failed with error <*>"
+  },
+  "1176": {
+    "event_id": "E1176",
+    "template": "bad username <*>"
+  },
+  "860": {
+    "event_id": "E860",
+    "template": "Listener created on port <*>."
+  },
+  "1052": {
+    "event_id": "E1052",
+    "template": "Daemon is running."
+  },
+  "1107": {
+    "event_id": "E1107",
+    "template": "many lost ticks."
+  },
+  "483": {
+    "event_id": "E483",
+    "template": "usb <*>: device not accepting address <*>, error <*>"
+  },
+  "1143": {
+    "event_id": "E1143",
+    "template": "(<*>) BEGIN EDIT (<*>)"
+  },
+  "639": {
+    "event_id": "E639",
+    "template": "megaraid: resetting the host..."
+  },
+  "116": {
+    "event_id": "E116",
+    "template": "panfs exception: at file.c:<*>, <*> (fmm: object ID/name mismatch), rollback: <*>"
+  },
+  "559": {
+    "event_id": "E559",
+    "template": "INFO: parameter <*> assigned int value <*>"
+  },
+  "177": {
+    "event_id": "E177",
+    "template": "<*>: <*>, Fault Status assert (Drive Array,Slot/Connector Number: <*>)"
+  },
+  "1119": {
+    "event_id": "E1119",
+    "template": "objid <*>, caller (<*>)"
+  },
+  "1024": {
+    "event_id": "E1024",
+    "template": "recovery complete."
+  },
+  "927": {
+    "event_id": "E927",
+    "template": "oom-killer: gfp_mask=<*>"
+  },
+  "518": {
+    "event_id": "E518",
+    "template": "Lustre: <*>:(<*>) showing stack for process <*>"
+  },
+  "360": {
+    "event_id": "E360",
+    "template": "LustreError: <*>:(<*>) OBD ioctl: device not setup <*>"
+  },
+  "626": {
+    "event_id": "E626",
+    "template": "LustreError: <*> ASSERTION(<*>) failed"
+  },
+  "908": {
+    "event_id": "E908",
+    "template": "LustreError: <*>:(<*>) LBUG"
+  },
+  "781": {
+    "event_id": "E781",
+    "template": "LustreError: dumping log to <*>"
+  },
+  "837": {
+    "event_id": "E837",
+    "template": "lctl R running task <*> <*> <*> (NOTLB)"
+  },
+  "566": {
+    "event_id": "E566",
+    "template": "Lustre: <*>:(<*>) Invoked portals upcall <*>"
+  },
+  "874": {
+    "event_id": "E874",
+    "template": "journal commit I/O error"
+  },
+  "1080": {
+    "event_id": "E1080",
+    "template": "DIALUP AT ttyS0 BY <*>"
+  },
+  "1212": {
+    "event_id": "E1212",
+    "template": "(<*>) LIST (<*>)"
+  },
+  "833": {
+    "event_id": "E833",
+    "template": "access denied for user <*> from <*>"
+  },
+  "958": {
+    "event_id": "E958",
+    "template": "synchronisation lost"
+  },
+  "490": {
+    "event_id": "E490",
+    "template": "[<*>]: Failed to get PortInfo - GUID=<*>, port=<*>"
+  },
+  "662": {
+    "event_id": "E662",
+    "template": "Out of Memory: Killed process <*> (<*>)."
+  },
+  "721": {
+    "event_id": "E721",
+    "template": "printk: <*> messages suppressed."
+  },
+  "554": {
+    "event_id": "E554",
+    "template": "<*>: accept() failed, Too many open files"
+  },
+  "349": {
+    "event_id": "E349",
+    "template": "[INFO]: received a start-up done notification"
+  },
+  "3": {
+    "event_id": "E3",
+    "template": "obsd_client: obsd_client: command timed out SETATTR options=<*> obj_id=<*> get_attributes=<*> set_attributes=<*> realmname panfs1 dev_id=<*> flags=<*>=(<*>) <*>, <*>, <*> allocated_by_sam=<*>"
+  },
+  "1113": {
+    "event_id": "E1113",
+    "template": "Stopping MySQL: <*>"
+  },
+  "253": {
+    "event_id": "E253",
+    "template": "FAILED LOGIN <*> FROM (null) FOR , Authentication failure"
+  },
+  "700": {
+    "event_id": "E700",
+    "template": "RPC: error <*> connecting to server <*>"
+  },
+  "1096": {
+    "event_id": "E1096",
+    "template": "Invalid user <*> from <*>"
+  },
+  "15": {
+    "event_id": "E15",
+    "template": "Instrumentation Service EventID: <*> Redundancy lost Redundancy unit: <*> Redundancy Chassis location: <*> System Chassis Previous redundancy state was: <*>"
+  },
+  "301": {
+    "event_id": "E301",
+    "template": "Configuration file <*> parsed but has no entries (like <*>)"
+  },
+  "93": {
+    "event_id": "E93",
+    "template": "Unable to monitor any SMART enabled devices. Try debug (-d) option. Exiting..."
+  },
+  "539": {
+    "event_id": "E539",
+    "template": "<*> device driver unload failed for kernel <*>"
+  },
+  "858": {
+    "event_id": "E858",
+    "template": "daemon started -- version <*>"
+  },
+  "642": {
+    "event_id": "E642",
+    "template": "starting the Postfix mail system"
+  },
+  "236": {
+    "event_id": "E236",
+    "template": "syslogin_perform_logout: logout() returned an error"
+  },
+  "593": {
+    "event_id": "E593",
+    "template": "INFO: opened service socket on port <*>"
+  },
+  "1168": {
+    "event_id": "E1168",
+    "template": "MSUListen(<*>)"
+  },
+  "635": {
+    "event_id": "E635",
+    "template": "umount2: Device or resource busy"
+  },
+  "928": {
+    "event_id": "E928",
+    "template": "umount: <*>: device is busy"
+  },
+  "709": {
+    "event_id": "E709",
+    "template": "Shutting down GANGLIA gmetad:"
+  },
+  "992": {
+    "event_id": "E992",
+    "template": "Stopping syslog-ng:"
+  },
+  "355": {
+    "event_id": "E355",
+    "template": "[<*>]: Failed to discover management port - GUID=<*>"
+  },
+  "131": {
+    "event_id": "E131",
+    "template": "authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>"
+  },
+  "742": {
+    "event_id": "E742",
+    "template": "Searching for custom.cnf. . ."
+  },
+  "575": {
+    "event_id": "E575",
+    "template": "Skipping customization. <*> not found."
+  },
+  "224": {
+    "event_id": "E224",
+    "template": "EXT3-fs error (device <*>) in ext3_dirty_inode: IO failure"
+  },
+  "143": {
+    "event_id": "E143",
+    "template": "EXT3-fs error (device <*>): <*>: unable to read inode block - inode=<*>, block=<*>"
+  },
+  "1177": {
+    "event_id": "E1177",
+    "template": "(<*>) REPLACE (<*>)"
+  },
+  "643": {
+    "event_id": "E643",
+    "template": "megaraid: hw error, cannot reset"
+  },
+  "528": {
+    "event_id": "E528",
+    "template": "rpc: poll response for unknown request <*>"
+  },
+  "815": {
+    "event_id": "E815",
+    "template": "loop: loaded (max <*> devices)"
+  },
+  "38": {
+    "event_id": "E38",
+    "template": "pan_sam: <*>: error report: failure <*>: <*>(OBSD) osd_op=OP_GETATTR offset=<*> length=<*> error=<*> (OBSD: Object not found)"
+  },
+  "793": {
+    "event_id": "E793",
+    "template": "MCfgEnforceConstraints(<*>)"
+  },
+  "573": {
+    "event_id": "E573",
+    "template": "MCfgAdjustBuffer(Buf,<*>,BaseTail)"
+  },
+  "1028": {
+    "event_id": "E1028",
+    "template": "SUFileBufCreate(<*>)"
+  },
+  "863": {
+    "event_id": "E863",
+    "template": "SUFileBufInitialize(<*>,<*>)"
+  },
+  "973": {
+    "event_id": "E973",
+    "template": "SUFileBufLoadFile(<*>)"
+  },
+  "765": {
+    "event_id": "E765",
+    "template": "__SUFileGetCachedData(<*>,<*>,<*>)"
+  },
+  "705": {
+    "event_id": "E705",
+    "template": "<*> device driver built for kernel <*>-<*>"
+  },
+  "591": {
+    "event_id": "E591",
+    "template": "failed to contact portmap (errno <*>)."
+  },
+  "925": {
+    "event_id": "E925",
+    "template": "sendmsg returned error <*>"
+  },
+  "922": {
+    "event_id": "E922",
+    "template": "RPC call returned error <*>"
+  },
+  "11": {
+    "event_id": "E11",
+    "template": "Instrumentation Service EventID: <*> Fan sensor detected a failure value Sensor location: <*> RPM Chassis location: <*> Previous state was: <*> Fan sensor value (in RPM): <*>"
+  },
+  "633": {
+    "event_id": "E633",
+    "template": "THH(<*>): <*>[<*>]: outstanding i=<*>, token=<*>"
+  },
+  "118": {
+    "event_id": "E118",
+    "template": "send response: Error building ASN.<*> representation (build int size <*>: s/b <*>)"
+  },
+  "380": {
+    "event_id": "E380",
+    "template": "<*>: host <*>[#<*>] said: <*> (in reply to MAIL FROM command)"
+  },
+  "356": {
+    "event_id": "E356",
+    "template": "Failed password for invalid user <*> from <*> port <*> ssh2"
+  },
+  "171": {
+    "event_id": "E171",
+    "template": "panfs exception: at attr.c:<*>, <*> (SM: object not found), rollback: <*>"
+  },
+  "505": {
+    "event_id": "E505",
+    "template": "WARNING: cannot load checkpoint file '<*>'"
+  },
+  "1127": {
+    "event_id": "E1127",
+    "template": "<*> route add <*> via <*> dev <*>"
+  },
+  "702": {
+    "event_id": "E702",
+    "template": "<*>: <*>: orphan cleanup on readonly fs"
+  },
+  "194": {
+    "event_id": "E194",
+    "template": "Instrumentation Service EventID: <*> Log size is full Log type: <*>"
+  },
+  "112": {
+    "event_id": "E112",
+    "template": "Instrumentation Service EventID: <*> Log size is near or at capacity Log type: <*>"
+  },
+  "65": {
+    "event_id": "E65",
+    "template": "THH(<*>): <*>[<*>]: Failed command <*> (TAVOR_IF_CMD_MAD_IFC): status=<*> (<*> - unexpected error - fatal)"
+  },
+  "563": {
+    "event_id": "E563",
+    "template": "<*> pages_scanned:<*> all_unreclaimable? <*>"
+  },
+  "738": {
+    "event_id": "E738",
+    "template": "Hyper-Threading is disabled"
+  },
+  "734": {
+    "event_id": "E734",
+    "template": "INFO: P[<*>]: Total <*> Up <*> Idle <*> Active <*>"
+  },
+  "848": {
+    "event_id": "E848",
+    "template": "megaraid abort: <*>, fw owner"
+  },
+  "630": {
+    "event_id": "E630",
+    "template": "megaraid: aborting-<*> cmd=<*> <c=<*> t=<*> l=<*>"
+  },
+  "321": {
+    "event_id": "E321",
+    "template": "[FATAL]: _ib_smSetSmCapability: ioctl(<*>) code=<*>"
+  },
+  "44": {
+    "event_id": "E44",
+    "template": "pan_sam: <*>: unable to report I/O error(s) to SM <*>(SM): <*> (SM: object cache entry is locked for a long period)"
+  },
+  "871": {
+    "event_id": "E871",
+    "template": "<*> : destination target <*>, lun <*>"
+  },
+  "659": {
+    "event_id": "E659",
+    "template": "EXT3-fs: <*>: <*> orphan inodes deleted"
+  },
+  "303": {
+    "event_id": "E303",
+    "template": "THH(<*>): <*>(<*>): [MM_create_mr]:MM_mr_get_keys failed"
+  },
+  "1191": {
+    "event_id": "E1191",
+    "template": "(<*>) RELOAD (<*>)"
+  },
+  "637": {
+    "event_id": "E637",
+    "template": "stopping the Postfix mail system"
+  },
+  "113": {
+    "event_id": "E113",
+    "template": "scsi: Device offlined - not ready after error recovery: host <*> channel <*> id <*> lun <*>"
+  },
+  "646": {
+    "event_id": "E646",
+    "template": "tftpd: read: Connection refused"
+  },
+  "237": {
+    "event_id": "E237",
+    "template": "Local disconnected: Connection closed by remote host."
+  },
+  "140": {
+    "event_id": "E140",
+    "template": "error: lastlog_get_entry: Error reading from <*>: Input/output error"
+  },
+  "1192": {
+    "event_id": "E1192",
+    "template": "MCPLoad(<*>,<*>)"
+  },
+  "256": {
+    "event_id": "E256",
+    "template": "Unknown username <*> in message bus configuration file"
+  },
+  "1081": {
+    "event_id": "E1081",
+    "template": "[INFO]: Web Agent <*>"
+  },
+  "394": {
+    "event_id": "E394",
+    "template": "[INFO]: <*> components started up successfully"
+  },
+  "670": {
+    "event_id": "E670",
+    "template": "pbs_mom: Unable to open logfile"
+  },
+  "138": {
+    "event_id": "E138",
+    "template": "Unable to listen for broadcasts, no broadcast interfaces available"
+  },
+  "59": {
+    "event_id": "E59",
+    "template": "bind() fd <*>, family <*>, port <*>, addr <*>, in6_is_addr_multicast=<*> flags=<*> fails: Address already in use"
+  },
+  "895": {
+    "event_id": "E895",
+    "template": "<*>: Losing <*>: savemail panic"
+  },
+  "207": {
+    "event_id": "E207",
+    "template": "<*>: SYSERR(<*>): savemail: cannot save rejected email anywhere"
+  },
+  "822": {
+    "event_id": "E822",
+    "template": "[INFO]: Operation failed: <*>"
+  },
+  "778": {
+    "event_id": "E778",
+    "template": "installing panasas drivers"
+  },
+  "435": {
+    "event_id": "E435",
+    "template": "Keyboard on <*> reports too many keys pressed."
+  },
+  "564": {
+    "event_id": "E564",
+    "template": "wall: user <*> broadcasted <*> lines (<*> chars)"
+  },
+  "648": {
+    "event_id": "E648",
+    "template": "module license <*> taints kernel."
+  },
+  "173": {
+    "event_id": "E173",
+    "template": "[<*>]: Failed to bring port to ACTIVE for node=<*>, port=<*>, no response"
+  },
+  "80": {
+    "event_id": "E80",
+    "template": "Instrumentation Service EventID: <*> Log size is no longer near or at capacity Log type: <*>"
+  },
+  "654": {
+    "event_id": "E654",
+    "template": "Please make sure you have at least <*>"
+  },
+  "293": {
+    "event_id": "E293",
+    "template": "invcol Error: Not enough space available in <*> folder."
+  },
+  "7": {
+    "event_id": "E7",
+    "template": "Instrumentation Service EventID: <*> Memory device status is non-critical Memory device location: <*> Possible memory module event cause:Single bit warning error rate exceeded"
+  },
+  "278": {
+    "event_id": "E278",
+    "template": "biosie.bin: page allocation failure. order:<*>, mode:<*>"
+  },
+  "466": {
+    "event_id": "E466",
+    "template": "<*> failed to allocate memory for BIOS Update"
+  },
+  "187": {
+    "event_id": "E187",
+    "template": "THH(<*>): CMD ERROR DUMP. opcode=<*>, opc_mod = <*>, exec_time_micro=<*>"
+  },
+  "1058": {
+    "event_id": "E1058",
+    "template": "THH(<*>): HCR dump END"
+  },
+  "486": {
+    "event_id": "E486",
+    "template": "THH(<*>): HCR dump, starting at addr <*>, size=<*>:"
+  },
+  "819": {
+    "event_id": "E819",
+    "template": "THH(<*>): OUT MAILBOX dump END"
+  },
+  "323": {
+    "event_id": "E323",
+    "template": "THH(<*>): OUT MAILBOX dump, starting at addr <*>, size=<*>:"
+  },
+  "541": {
+    "event_id": "E541",
+    "template": "THH(<*>): <*>[<*>]: list of outstanding tokens:"
+  },
+  "125": {
+    "event_id": "E125",
+    "template": "THH(<*>): <*>[<*>]: Command not completed after timeout: cmd=<*>, token=<*>, pid=<*>, go=<*>"
+  },
+  "961": {
+    "event_id": "E961",
+    "template": "terminating on signal <*>"
+  },
+  "755": {
+    "event_id": "E755",
+    "template": "deleting unreferenced inode <*>"
+  },
+  "456": {
+    "event_id": "E456",
+    "template": "megaraid mbox: critical hardware error!"
+  },
+  "976": {
+    "event_id": "E976",
+    "template": "<*> login denied for user <*>."
+  },
+  "509": {
+    "event_id": "E509",
+    "template": "LAPIC (acpi_id[<*>] lapic_id[<*>] disabled)"
+  },
+  "352": {
+    "event_id": "E352",
+    "template": "CPU0: Initial APIC ID: <*>, Physical Processor ID: <*>"
+  },
+  "46": {
+    "event_id": "E46",
+    "template": "Failed to start message bus: The pid file <*> exists, if the message bus is not running, remove this file"
+  },
+  "175": {
+    "event_id": "E175",
+    "template": "Authentication refused: bad ownership or modes for directory <*>"
+  },
+  "796": {
+    "event_id": "E796",
+    "template": "<*> bad udp checksums in <*> packets"
+  },
+  "886": {
+    "event_id": "E886",
+    "template": "bogus UDP packet length: <*>"
+  },
+  "826": {
+    "event_id": "E826",
+    "template": "INFO: new LOGLEVEL value (<*>)"
+  },
+  "149": {
+    "event_id": "E149",
+    "template": "INFO: starting Moab Workload Manager version <*> ##################"
+  },
+  "1090": {
+    "event_id": "E1090",
+    "template": "INFO: string <*> -> <*>"
+  },
+  "308": {
+    "event_id": "E308",
+    "template": "ERROR: unexpected parameter[<*>] 'SYSCFG' detected"
+  },
+  "657": {
+    "event_id": "E657",
+    "template": "INFO: CLASSCFG[<*>] set to FSWEIGHT <*>"
+  },
+  "660": {
+    "event_id": "E660",
+    "template": "INFO: CLASSCFG[<*>] set to MAXNODE=<*>"
+  },
+  "331": {
+    "event_id": "E331",
+    "template": "INFO: server started on host <*> (Primary Server)"
+  },
+  "703": {
+    "event_id": "E703",
+    "template": "<*> <*> INFO: filename only returned '<*>'"
+  },
+  "836": {
+    "event_id": "E836",
+    "template": "<*> <*> INFO: pathname returned '<*>'"
+  },
+  "701": {
+    "event_id": "E701",
+    "template": "<*> SUConfigProcessConfigFile(<*>)"
+  },
+  "185": {
+    "event_id": "E185",
+    "template": "ERROR: cannot stat file '<*>', errno: <*> (No such file or directory)"
+  },
+  "1051": {
+    "event_id": "E1051",
+    "template": "MAMSetDefaults()"
+  },
+  "953": {
+    "event_id": "E953",
+    "template": "MG2GridInitialize()"
+  },
+  "1053": {
+    "event_id": "E1053",
+    "template": "MIDSetDefaults()"
+  },
+  "982": {
+    "event_id": "E982",
+    "template": "MRMProcessConfig(<*>,<*>)"
+  },
+  "1050": {
+    "event_id": "E1050",
+    "template": "SUFileLoad(<*>,<*>,<*>,<*>,<*>,<*>)"
+  },
+  "937": {
+    "event_id": "E937",
+    "template": "SULoadEnvironment(<*>,<*>)"
+  },
+  "607": {
+    "event_id": "E607",
+    "template": "INFO: child process in background"
+  },
+  "357": {
+    "event_id": "E357",
+    "template": "INFO: executing scheduler from <*> under UID <*> GID <*>"
+  },
+  "542": {
+    "event_id": "E542",
+    "template": "INFO: new file <*> cached in slot <*> (<*> bytes)"
+  },
+  "923": {
+    "event_id": "E923",
+    "template": "INFO: new file <*> opened"
+  },
+  "1220": {
+    "event_id": "E1220",
+    "template": "MAcct[<*>] <*>"
+  },
+  "1190": {
+    "event_id": "E1190",
+    "template": "MFULock(<*>,<*>)"
+  },
+  "1040": {
+    "event_id": "E1040",
+    "template": "MJobTraceBuffer[<*>] <*>"
+  },
+  "1232": {
+    "event_id": "E1232",
+    "template": "MJob[<*>] <*>"
+  },
+  "1224": {
+    "event_id": "E1224",
+    "template": "MNode[<*>] <*>"
+  },
+  "1230": {
+    "event_id": "E1230",
+    "template": "MRsv[<*>] <*>"
+  },
+  "998": {
+    "event_id": "E998",
+    "template": "MSysAuthenticate()"
+  },
+  "1078": {
+    "event_id": "E1078",
+    "template": "MSysDaemonize()"
+  },
+  "962": {
+    "event_id": "E962",
+    "template": "MSysLaunchAction(<*>,)"
+  },
+  "1104": {
+    "event_id": "E1104",
+    "template": "MSysMemCheck()"
+  },
+  "986": {
+    "event_id": "E986",
+    "template": "MSysProcessArgs(<*>,<*>,<*>)"
+  },
+  "1092": {
+    "event_id": "E1092",
+    "template": "MSysRegEvent(<*>,<*>)"
+  },
+  "1023": {
+    "event_id": "E1023",
+    "template": "MSysStartServer()"
+  },
+  "1129": {
+    "event_id": "E1129",
+    "template": "MUGetOpt(<*>,<*>,<*>,<*>,<*>)"
+  },
+  "1231": {
+    "event_id": "E1231",
+    "template": "SRsv[ <*>] <*>"
+  },
+  "903": {
+    "event_id": "E903",
+    "template": "__SUFileCacheData(<*>,<*>,<*>)"
+  },
+  "249": {
+    "event_id": "E249",
+    "template": "starting moab-<*> version Moab Workload Manager (PID: <*>) on <*>"
+  },
+  "492": {
+    "event_id": "E492",
+    "template": "INFO: no fallback server host specified"
+  },
+  "1085": {
+    "event_id": "E1085",
+    "template": "MFSInitialize(<*>)"
+  },
+  "1130": {
+    "event_id": "E1130",
+    "template": "MSysCheckFB()"
+  },
+  "910": {
+    "event_id": "E910",
+    "template": "INFO: parent is exiting"
+  },
+  "1199": {
+    "event_id": "E1199",
+    "template": "MParAdd(<*>)"
+  },
+  "432": {
+    "event_id": "E432",
+    "template": "INFO: no matches found for node expression"
+  },
+  "906": {
+    "event_id": "E906",
+    "template": "MSRGetAttributes(<*>,<*>,<*>,<*>)"
+  },
+  "991": {
+    "event_id": "E991",
+    "template": "MUREToList(<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>)"
+  },
+  "462": {
+    "event_id": "E462",
+    "template": "INFO: idle job queue is empty on iteration <*>"
+  },
+  "667": {
+    "event_id": "E667",
+    "template": "MQueueSelectJobs(<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>)"
+  },
+  "374": {
+    "event_id": "E374",
+    "template": "megaraid: <*> outstanding commands. Max wait <*> sec"
+  },
+  "553": {
+    "event_id": "E553",
+    "template": "mount: fs type <*> not supported by kernel"
+  },
+  "889": {
+    "event_id": "E889",
+    "template": "command = Test Unit Ready <*>"
+  },
+  "475": {
+    "event_id": "E475",
+    "template": "mptscsih: <*>: attempting task abort! (sc=<*>)"
+  },
+  "338": {
+    "event_id": "E338",
+    "template": "statd running as <*>. chown <*> to choose different user"
+  },
+  "1289": {
+    "event_id": "E1289",
+    "template": "Starting NFS services: succeeded"
+  },
+  "1290": {
+    "event_id": "E1290",
+    "template": "Mounting other filesystems: failed"
+  },
+  "1291": {
+    "event_id": "E1291",
+    "template": "Starting MySQL: succeeded"
+  },
+  "1292": {
+    "event_id": "E1292",
+    "template": "Starting ts_fixup: succeeded"
+  },
+  "1293": {
+    "event_id": "E1293",
+    "template": "registered new driver <*>"
+  },
+  "8": {
+    "event_id": "E8",
+    "template": "Instrumentation Service EventID: <*> Power supply detected a failure Sensor location: <*> Status Chassis location: <*> Previous state was: <*> Power Supply type: <*> Power Supply state: <*>"
+  },
+  "502": {
+    "event_id": "E502",
+    "template": "can't open <*>: Too many open files in system"
+  },
+  "512": {
+    "event_id": "E512",
+    "template": "pan_common: got <*> registering panasas at <*>"
+  },
+  "842": {
+    "event_id": "E842",
+    "template": "pan_common: load aborted"
+  },
+  "263": {
+    "event_id": "E263",
+    "template": "panfs exception: at u_modb.c:<*>, <*> (unknown), rollback: <*>"
+  },
+  "266": {
+    "event_id": "E266",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_query_port_prop: cmdif returned <*>"
+  },
+  "262": {
+    "event_id": "E262",
+    "template": "THH(<*>): [XHH_qpm_process_local_mad]: ERROR on port <*>: <*>"
+  },
+  "407": {
+    "event_id": "E407",
+    "template": "__journal_remove_journal_head: freeing <*>"
+  },
+  "84": {
+    "event_id": "E84",
+    "template": "[<*>]: Failed to bring port to ARMED for node=<*>, port=<*>, state=<*>, hop_count=<*>, mad status <*>"
+  },
+  "290": {
+    "event_id": "E290",
+    "template": "process <*> is using obsolete setsockopt SO_BSDCOMPAT"
+  },
+  "839": {
+    "event_id": "E839",
+    "template": "[<*>]: Set LID failed because <*>"
+  },
+  "629": {
+    "event_id": "E629",
+    "template": "[<*>]: Failed to set LID to CA=<*>, port=<*>"
+  },
+  "330": {
+    "event_id": "E330",
+    "template": "THH(<*>): IF_CMD_STAT_DDR_MEM_ERR - memory error"
+  },
+  "199": {
+    "event_id": "E199",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_create: CMD_error in XHH_cmd_SYS_EN (<*>)"
+  },
+  "165": {
+    "event_id": "E165",
+    "template": "THH(<*>): modprobe[<*>]: <*>: Failed creating THH hob for device <*> in index <*>"
+  },
+  "421": {
+    "event_id": "E421",
+    "template": "Tavor HCA Driver: probe of <*> failed with error <*>"
+  },
+  "348": {
+    "event_id": "E348",
+    "template": "error binding to socket: Address already in use"
+  },
+  "419": {
+    "event_id": "E419",
+    "template": "<*>: Keyboard on <*> reports too many keys pressed."
+  },
+  "844": {
+    "event_id": "E844",
+    "template": "System type not supported"
+  },
+  "1089": {
+    "event_id": "E1089",
+    "template": "MStatOpenFile(<*>)"
+  },
+  "1149": {
+    "event_id": "E1149",
+    "template": "MParUpdate(<*>)"
+  },
+  "1152": {
+    "event_id": "E1152",
+    "template": "MVPCUpdate(<*>)"
+  },
+  "1135": {
+    "event_id": "E1135",
+    "template": "MPSIFromXML(<*>)"
+  },
+  "1153": {
+    "event_id": "E1153",
+    "template": "MRMFromXML(<*>)"
+  },
+  "813": {
+    "event_id": "E813",
+    "template": "LoginGraceTime exceeded."
+  },
+  "663": {
+    "event_id": "E663",
+    "template": "warning: process <*> pid <*> exit status <*>"
+  },
+  "300": {
+    "event_id": "E300",
+    "template": "<*> error (device <*>): ext3_remount: Abort forced by user"
+  },
+  "487": {
+    "event_id": "E487",
+    "template": "[INFO]: Failed to add pgid <*> to mgid <*>, status <*>"
+  },
+  "335": {
+    "event_id": "E335",
+    "template": "Info fld=<*>, Current sda: sense key Hardware Error"
+  },
+  "1147": {
+    "event_id": "E1147",
+    "template": "VIPKL( failed"
+  },
+  "280": {
+    "event_id": "E280",
+    "template": "[<*>]: Failed to set LID on switch=<*>, because NO RESPONSE"
+  },
+  "452": {
+    "event_id": "E452",
+    "template": "LustreError: <*>:(<*>) OBD device <*> still set up"
+  },
+  "282": {
+    "event_id": "E282",
+    "template": "LustreError: <*>:(<*>) OBD <*> is still busy with <*> references"
+  },
+  "96": {
+    "event_id": "E96",
+    "template": "You should stop active file system users, or use the --force option to cleanup."
+  },
+  "994": {
+    "event_id": "E994",
+    "template": "USB support disabled"
+  },
+  "854": {
+    "event_id": "E854",
+    "template": "Frequency format error in <*>"
+  },
+  "899": {
+    "event_id": "E899",
+    "template": "recv_rply: [<*>] RPC status <*>"
+  },
+  "764": {
+    "event_id": "E764",
+    "template": "Can't callback <*> (<*>), giving up."
+  },
+  "163": {
+    "event_id": "E163",
+    "template": "[<*>]: Failed to negotiate MTU, op_vl for node=<*>, port=<*>, no response"
+  },
+  "594": {
+    "event_id": "E594",
+    "template": "cannot lock <*> - another mom running"
+  },
+  "1005": {
+    "event_id": "E1005",
+    "template": "loaded (max <*> devices)"
+  },
+  "42": {
+    "event_id": "E42",
+    "template": "SysRq : HELP : <*> reBoot Crash tErm kIll saK showMem powerOff showPc unRaw Sync showTasks Unmount shoWcpus"
+  },
+  "274": {
+    "event_id": "E274",
+    "template": "Could not open lock file <*>, disallowing console access"
+  },
+  "527": {
+    "event_id": "E527",
+    "template": "error creating <*>: No space left on device"
+  },
+  "167": {
+    "event_id": "E167",
+    "template": "Uhhuh. NMI received. Dazed and confused, but trying to continue"
+  },
+  "238": {
+    "event_id": "E238",
+    "template": "You probably have a hardware problem with your RAM chips"
+  },
+  "137": {
+    "event_id": "E137",
+    "template": "<*> more authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>"
+  },
+  "562": {
+    "event_id": "E562",
+    "template": "INFO: node min value: <*> distance: <*> step: <*>"
+  },
+  "758": {
+    "event_id": "E758",
+    "template": "INFO: node steps eliminated: <*>"
+  },
+  "713": {
+    "event_id": "E713",
+    "template": "INFO: updating acct fairshare"
+  },
+  "1045": {
+    "event_id": "E1045",
+    "template": "MFSUpdateData(<*>,<*>,<*>)"
+  },
+  "912": {
+    "event_id": "E912",
+    "template": "MStatPreInitialize()"
+  },
+  "883": {
+    "event_id": "E883",
+    "template": "MStatProfInitialize(<*>)"
+  },
+  "1060": {
+    "event_id": "E1060",
+    "template": "MPBSInitialize(<*>)"
+  },
+  "1059": {
+    "event_id": "E1059",
+    "template": "MParInitialize(<*>)"
+  },
+  "1046": {
+    "event_id": "E1046",
+    "template": "MRMInitialize(<*>,<*>,<*>)"
+  },
+  "1015": {
+    "event_id": "E1015",
+    "template": "MStatClearUsage(<*>,<*>)"
+  },
+  "762": {
+    "event_id": "E762",
+    "template": "MStatWritePeriodPStats(<*>,<*>)"
+  },
+  "805": {
+    "event_id": "E805",
+    "template": "INFO: PBS node <*> set to state <*> (<*>)"
+  },
+  "409": {
+    "event_id": "E409",
+    "template": "INFO: cannot determine node/rack of host '<*>'"
+  },
+  "623": {
+    "event_id": "E623",
+    "template": "INFO: queue <*> started state set to <*>"
+  },
+  "722": {
+    "event_id": "E722",
+    "template": "MNodeUpdateResExpression(<*>)"
+  },
+  "970": {
+    "event_id": "E970",
+    "template": "MPBSLoadQueueInfo(<*>)"
+  },
+  "1110": {
+    "event_id": "E1110",
+    "template": "MPBSNodeLoad(<*>)"
+  },
+  "688": {
+    "event_id": "E688",
+    "template": "INFO: rsv <*> hostlist initialized"
+  },
+  "504": {
+    "event_id": "E504",
+    "template": "INFO: <*> not required for specified period"
+  },
+  "990": {
+    "event_id": "E990",
+    "template": "MRsvConfigure(<*>,<*>,<*>,<*>,<*>)"
+  },
+  "381": {
+    "event_id": "E381",
+    "template": "WARNING: empty hostlist in MRsvConfigure()"
+  },
+  "879": {
+    "event_id": "E879",
+    "template": "MQueueSelectAllJobs(<*>)"
+  },
+  "1169": {
+    "event_id": "E1169",
+    "template": "MCPLoadSR(<*>)"
+  },
+  "824": {
+    "event_id": "E824",
+    "template": "nfs_statfs: statfs error = <*>"
+  },
+  "408": {
+    "event_id": "E408",
+    "template": "Service <*> failed to start and is deactivated."
+  },
+  "228": {
+    "event_id": "E228",
+    "template": "bind failed (Address already in use (errno = <*>)). service = <*>"
+  },
+  "726": {
+    "event_id": "E726",
+    "template": "modprobe: Can't locate module <*>"
+  },
+  "97": {
+    "event_id": "E97",
+    "template": "fatal: scan_dir_push: open directory deferred: Too many open files in system"
+  },
+  "120": {
+    "event_id": "E120",
+    "template": "pan_sam: <*>: error report: failure <*>: <*> osd_op=<*> offset=<*> length=<*> error=<*> (rmm: <*>)"
+  },
+  "40": {
+    "event_id": "E40",
+    "template": "pan_sam: <*>: unable to report I/O error(s) to SM <*>(SM): <*> (SM: object is currently unavailable due to OSD failures)"
+  },
+  "1063": {
+    "event_id": "E1063",
+    "template": "Modules linked in: <*>"
+  },
+  "1193": {
+    "event_id": "E1193",
+    "template": "Oops: <*> [<*>] SMP"
+  },
+  "1196": {
+    "event_id": "E1196",
+    "template": "PML4 <*> PGD <*> PMD <*>"
+  },
+  "944": {
+    "event_id": "E944",
+    "template": "Pid: <*>, comm: <*> Tainted: PF <*>"
+  },
+  "221": {
+    "event_id": "E221",
+    "template": "Unable to handle kernel NULL pointer dereference at <*> RIP:"
+  },
+  "135": {
+    "event_id": "E135",
+    "template": "panfs exception: at <*>, <*> (ptp: Node not yet ready to respond), rollback: <*>"
+  },
+  "170": {
+    "event_id": "E170",
+    "template": "<*>: <*>: sender notify: Warning: could not send message for past <*> hours"
+  },
+  "1240": {
+    "event_id": "E1240",
+    "template": "foo"
+  },
+  "723": {
+    "event_id": "E723",
+    "template": "Sending warning via mail to <*> ..."
+  },
+  "684": {
+    "event_id": "E684",
+    "template": "Warning via mail to <*>: successful"
+  },
+  "17": {
+    "event_id": "E17",
+    "template": "panfs exception: at l_supe.c:<*>, <*> (rmm: Rejecting mount request from client with badly unsynced clock.), unknown error:(<*>), rollback: <*>"
+  },
+  "29": {
+    "event_id": "E29",
+    "template": "panfs mount: error: problem contacting up realm <*> (rmm: Rejecting mount request from client with badly unsynced clock.)"
+  },
+  "241": {
+    "event_id": "E241",
+    "template": "NOQUEUE: SYSERR(<*>): can not chdir(<*>): Permission denied"
+  },
+  "353": {
+    "event_id": "E353",
+    "template": "Kerberos authentication as user <*> accepted for <*>."
+  },
+  "1094": {
+    "event_id": "E1094",
+    "template": "command = Write (<*>) <*>"
+  },
+  "375": {
+    "event_id": "E375",
+    "template": "mptbase: <*>: IOCStatus(<*>): SCSI Task Terminated"
+  },
+  "669": {
+    "event_id": "E669",
+    "template": "Installing all prepared tables"
+  },
+  "1128": {
+    "event_id": "E1128",
+    "template": "<*> -u <*> -h <*> password '<*>'"
+  },
+  "1105": {
+    "event_id": "E1105",
+    "template": "Fill help tables"
+  },
+  "412": {
+    "event_id": "E412",
+    "template": "Please report any problems with the <*> script!"
+  },
+  "545": {
+    "event_id": "E545",
+    "template": "See the manual for more instructions."
+  },
+  "536": {
+    "event_id": "E536",
+    "template": "Support <*> by buying support/licenses at <*>"
+  },
+  "254": {
+    "event_id": "E254",
+    "template": "The latest information about <*> is available on the web at"
+  },
+  "184": {
+    "event_id": "E184",
+    "template": "To do so, start the server, then issue the following commands:"
+  },
+  "604": {
+    "event_id": "E604",
+    "template": "To start <*> at boot time you have to copy <*>"
+  },
+  "747": {
+    "event_id": "E747",
+    "template": "You can start the <*> daemon with:"
+  },
+  "193": {
+    "event_id": "E193",
+    "template": "You can test the <*> daemon with the benchmarks in the <*> directory:"
+  },
+  "1239": {
+    "event_id": "E1239",
+    "template": "cd <*> ; <*> &"
+  },
+  "1222": {
+    "event_id": "E1222",
+    "template": "cd <*> ; perl <*>"
+  },
+  "638": {
+    "event_id": "E638",
+    "template": "to the right place for your system"
+  },
+  "724": {
+    "event_id": "E724",
+    "template": "Initializing MySQL database: <*>"
+  },
+  "176": {
+    "event_id": "E176",
+    "template": "[INFO]: Receive SystemImageGUID change trap from port (LID= <*>)"
+  },
+  "225": {
+    "event_id": "E225",
+    "template": "[<*>]: No spine present in chassis, splitting switch_elem"
+  },
+  "139": {
+    "event_id": "E139",
+    "template": "WARNING: Could not chdir to home directory <*>: No such file or directory"
+  },
+  "1235": {
+    "event_id": "E1235",
+    "template": "/var:"
+  },
+  "525": {
+    "event_id": "E525",
+    "template": "- key was been created <*> seconds in future"
+  },
+  "439": {
+    "event_id": "E439",
+    "template": "Found <*>, no active local ports, check cables"
+  },
+  "1007": {
+    "event_id": "E1007",
+    "template": "RPC: giant verf size: <*>"
+  },
+  "674": {
+    "event_id": "E674",
+    "template": "call_verify: auth check failed"
+  },
+  "459": {
+    "event_id": "E459",
+    "template": "call_verify: RPC call version mismatch!"
+  },
+  "448": {
+    "event_id": "E448",
+    "template": "ssh[<*>] general protection rip:<*> rsp:<*> error:<*>"
+  },
+  "267": {
+    "event_id": "E267",
+    "template": "THH(<*>): <*>[<*>]: XHH_hob_register_KL(<*>): [MM_create_mr]:<*>"
+  },
+  "189": {
+    "event_id": "E189",
+    "template": "[KERNEL_IB][ib_mad_dispatch][<*>]:MM_mr_get_keys failed"
+  },
+  "246": {
+    "event_id": "E246",
+    "template": "VIPKL(<*>[<*>]: XHH_hob_register_mr: Device in FATAL state"
+  },
+  "383": {
+    "event_id": "E383",
+    "template": "fatal: the Postfix mail system is not running"
+  },
+  "398": {
+    "event_id": "E398",
+    "template": "<*>: from=<*>, status=expired, returned to sender"
+  },
+  "1061": {
+    "event_id": "E1061",
+    "template": "Deleted: <*> messages"
+  },
+  "750": {
+    "event_id": "E750",
+    "template": "fatal: uid=<*>: malformed input"
+  },
+  "935": {
+    "event_id": "E935",
+    "template": "<*>: <*> orphan inodes deleted"
+  },
+  "208": {
+    "event_id": "E208",
+    "template": "warning: stdin: unexpected EOF in data, record type <*> length <*>"
+  },
+  "400": {
+    "event_id": "E400",
+    "template": "EXT3-fs error (device <*>): <*>: <*> journal on device <*>."
+  },
+  "444": {
+    "event_id": "E444",
+    "template": "unable to read inode block - inode=<*>, block=<*>"
+  },
+  "109": {
+    "event_id": "E109",
+    "template": "Bootdata ok (command line is ro <*>=LABEL=<*> tsc console==<*> console=<*>,<*> rhgb quiet)"
+  },
+  "760": {
+    "event_id": "E760",
+    "template": "usb <*>: USB disconnect, address <*>"
+  },
+  "1189": {
+    "event_id": "E1189",
+    "template": "high <*>, batch <*>"
+  },
+  "1202": {
+    "event_id": "E1202",
+    "template": "protectih <*>"
+  },
+  "823": {
+    "event_id": "E823",
+    "template": "<de <*> HighMem per-cpu: empty"
+  },
+  "1123": {
+    "event_id": "E1123",
+    "template": "low <*>, high <*>, batch <*>"
+  },
+  "443": {
+    "event_id": "E443",
+    "template": "<*>{:panfs:pan_sock_linux_kernel_sock_c <*>"
+  },
+  "921": {
+    "event_id": "E921",
+    "template": "Microsoft Joliet Level <*>"
+  },
+  "68": {
+    "event_id": "E68",
+    "template": "[<*>]: Failed to GetSwitchInfo(guid=<*> LID=<*>) for checking SwitchInfo:port_state_change"
+  },
+  "706": {
+    "event_id": "E706",
+    "template": "[<*>]: hop_count: <*>, direct_path: <*>"
+  },
+  "515": {
+    "event_id": "E515",
+    "template": "[<*>]: Failed to set MFT to zero for switch=<*>"
+  },
+  "966": {
+    "event_id": "E966",
+    "template": "invalid media value (<*>)"
+  },
+  "497": {
+    "event_id": "E497",
+    "template": "Can't find a valid FAT filesystem on dev <*>."
+  },
+  "1026": {
+    "event_id": "E1026",
+    "template": "getpwnam failed for <*>"
+  },
+  "298": {
+    "event_id": "E298",
+    "template": "Received disconnect from <*>: <*>: Corrupted MAC on input."
+  },
+  "782": {
+    "event_id": "E782",
+    "template": "Kickstart: <*> pbs server block"
+  },
+  "401": {
+    "event_id": "E401",
+    "template": "THH(<*>): <*>[<*>]: XHH_cmd_WRITE_MTT failed (err=<*>)"
+  },
+  "379": {
+    "event_id": "E379",
+    "template": "THH(<*>): <*>[<*>]: alloc_reg_pages: <*> register_pages"
+  },
+  "493": {
+    "event_id": "E493",
+    "template": "Disconnecting: Corrupted MAC on input."
+  },
+  "478": {
+    "event_id": "E478",
+    "template": "FATAL: Error inserting <*> (<*>): No such device"
+  },
+  "645": {
+    "event_id": "E645",
+    "template": "execvp: No such file or directory"
+  },
+  "1025": {
+    "event_id": "E1025",
+    "template": "INFO: <*> not supported"
+  },
+  "622": {
+    "event_id": "E622",
+    "template": "INFO: connected to PBS server <*> on sd <*>"
+  },
+  "917": {
+    "event_id": "E917",
+    "template": "INFO: starting new day: <*>"
+  },
+  "810": {
+    "event_id": "E810",
+    "template": "MCredCreditRefresh(DAY)"
+  },
+  "1077": {
+    "event_id": "E1077",
+    "template": "MServerUpdate()"
+  },
+  "1029": {
+    "event_id": "E1029",
+    "template": "MStatInitialize(<*>)"
+  },
+  "568": {
+    "event_id": "E568",
+    "template": "MStatInitializeActiveSysUsage()"
+  },
+  "1055": {
+    "event_id": "E1055",
+    "template": "MSysUpdateTime()"
+  },
+  "1180": {
+    "event_id": "E1180",
+    "template": "MUSetEnv(<*>,<*>)"
+  },
+  "598": {
+    "event_id": "E598",
+    "template": "WARNING: cannot create statfile '<*>'"
+  },
+  "168": {
+    "event_id": "E168",
+    "template": "WARNING: cannot open file '<*>', errno: <*> (No such file or directory)"
+  },
+  "941": {
+    "event_id": "E941",
+    "template": "__MPBSSystemQuery(<*>,<*>)"
+  },
+  "524": {
+    "event_id": "E524",
+    "template": "INFO: <*> PBS resources detected on RM base"
+  },
+  "574": {
+    "event_id": "E574",
+    "template": "INFO: PBS data updated for iteration <*>"
+  },
+  "861": {
+    "event_id": "E861",
+    "template": "INFO: starting iteration <*>"
+  },
+  "916": {
+    "event_id": "E916",
+    "template": "MClusterClearUsage()"
+  },
+  "737": {
+    "event_id": "E737",
+    "template": "MCredCreditRefresh(MONTH)"
+  },
+  "1013": {
+    "event_id": "E1013",
+    "template": "MPBSClusterQuery(<*>)"
+  },
+  "1137": {
+    "event_id": "E1137",
+    "template": "MPBSGetData(<*>)"
+  },
+  "1021": {
+    "event_id": "E1021",
+    "template": "MRMClusterQuery()"
+  },
+  "1167": {
+    "event_id": "E1167",
+    "template": "MRMUpdate()"
+  },
+  "902": {
+    "event_id": "E902",
+    "template": "MSchedProcessJobs(<*>,<*>,<*>)"
+  },
+  "757": {
+    "event_id": "E757",
+    "template": "WARNING: cannot record <*> stats"
+  },
+  "119": {
+    "event_id": "E119",
+    "template": "[<*>] tsqe1: (P:<*>,S:<*>,M:<*>,D:<*>) [Down][DEFAULT][[NONE]]<*> C:[NONE] DEFAULT sqe"
+  },
+  "1054": {
+    "event_id": "E1054",
+    "template": "INFO: jobs in queue"
+  },
+  "877": {
+    "event_id": "E877",
+    "template": "INFO: no queues detected"
+  },
+  "382": {
+    "event_id": "E382",
+    "template": "INFO: queue is empty or cannot get PBS job info"
+  },
+  "818": {
+    "event_id": "E818",
+    "template": "INFO: resources detected: <*>"
+  },
+  "739": {
+    "event_id": "E739",
+    "template": "MClusterUpdateNodeState()"
+  },
+  "963": {
+    "event_id": "E963",
+    "template": "MPBSWorkloadQuery(<*>)"
+  },
+  "1049": {
+    "event_id": "E1049",
+    "template": "MRMQueueQuery(<*>,<*>,<*>)"
+  },
+  "942": {
+    "event_id": "E942",
+    "template": "MRMWorkloadQuery(<*>,<*>,<*>)"
+  },
+  "1165": {
+    "event_id": "E1165",
+    "template": "MSRUpdate()"
+  },
+  "203": {
+    "event_id": "E203",
+    "template": "INFO: current util[<*>]: <*> (<*>%) PH: <*>% active jobs: <*> of <*> (completed: <*>)"
+  },
+  "420": {
+    "event_id": "E420",
+    "template": "INFO: iteration: <*> scheduling time: <*> seconds"
+  },
+  "1011": {
+    "event_id": "E1011",
+    "template": "MLimitEnforceAll(<*>)"
+  },
+  "993": {
+    "event_id": "E993",
+    "template": "MNodeCheckStatus()"
+  },
+  "956": {
+    "event_id": "E956",
+    "template": "MQueueCheckStatus()"
+  },
+  "957": {
+    "event_id": "E957",
+    "template": "MQueueUpdateCJobs()"
+  },
+  "999": {
+    "event_id": "E999",
+    "template": "MRMFinalizeCycle()"
+  },
+  "1043": {
+    "event_id": "E1043",
+    "template": "MRsvAdjustDRes(<*>,<*>)"
+  },
+  "1022": {
+    "event_id": "E1022",
+    "template": "MRsvUpdateStats()"
+  },
+  "950": {
+    "event_id": "E950",
+    "template": "MSchedUpdateStats()"
+  },
+  "1118": {
+    "event_id": "E1118",
+    "template": "MUClearChild(<*>)"
+  },
+  "365": {
+    "event_id": "E365",
+    "template": "INFO: scheduling complete. sleeping <*> seconds"
+  },
+  "1033": {
+    "event_id": "E1033",
+    "template": "MRsvCheckStatus(<*>)"
+  },
+  "235": {
+    "event_id": "E235",
+    "template": "megaraid mbox: reset sequence completed successfully"
+  },
+  "153": {
+    "event_id": "E153",
+    "template": "THH(<*>): <*>[<*>]: XHH_cmd_eventh: could not find context by token. token=<*>"
+  },
+  "132": {
+    "event_id": "E132",
+    "template": "FATAL ERROR: Creating listener failed: port <*> probably already in use!"
+  },
+  "1069": {
+    "event_id": "E1069",
+    "template": "MCPLoadSched(<*>,<*>,<*>)"
+  },
+  "281": {
+    "event_id": "E281",
+    "template": "EXT3-fs error (device <*>): <*>: reading directory <*> offset <*>"
+  },
+  "81": {
+    "event_id": "E81",
+    "template": "<*>: <*>, Fault Status assert (deassertion event) (Drive Array,Slot/Connector Number: <*>)"
+  },
+  "98": {
+    "event_id": "E98",
+    "template": "fatal: scan_dir_push: open directory maildrop: Too many open files in system"
+  },
+  "391": {
+    "event_id": "E391",
+    "template": "warning: <*>: bad command startup -- throttling"
+  },
+  "658": {
+    "event_id": "E658",
+    "template": "<*>: can't exec <*>: Input/output error"
+  },
+  "243": {
+    "event_id": "E243",
+    "template": "The <*> <*> profile is still in active development and requires"
+  },
+  "82": {
+    "event_id": "E82",
+    "template": "some packages still in package.mask or ~amd64 and is not yet ready for user testing."
+  },
+  "32": {
+    "event_id": "E32",
+    "template": "sam raid obsd error on write: local_status <*> (rmm: <*>), obsd_error <*> (<*>) virtual object <*> index <*>, stor_op <*>, component device <*>"
+  },
+  "26": {
+    "event_id": "E26",
+    "template": "pan_rpc: Unable to send reply: peer addr not available <*> (RPC: binding was already destroyed, it has already been released)"
+  },
+  "1161": {
+    "event_id": "E1161",
+    "template": "CR2: <*> CR3: <*> CR4: <*>"
+  },
+  "1146": {
+    "event_id": "E1146",
+    "template": "CS: <*> DS: <*> ES: <*> CR0: <*>"
+  },
+  "1073": {
+    "event_id": "E1073",
+    "template": "FS: <*>(<*>) GS:<*>(<*>) knlGS:<*>"
+  },
+  "304": {
+    "event_id": "E304",
+    "template": "Process kpanfs_dispatch (pid: <*>, threadinfo <*>, task <*>)"
+  },
+  "1164": {
+    "event_id": "E1164",
+    "template": "R10: <*> R11: <*> R12: <*>"
+  },
+  "1162": {
+    "event_id": "E1162",
+    "template": "R13: <*> R14: <*> R15: <*>"
+  },
+  "1163": {
+    "event_id": "E1163",
+    "template": "RAX: <*> RBX: <*> RCX: <*>"
+  },
+  "1160": {
+    "event_id": "E1160",
+    "template": "RBP: <*> R08: <*> R09: <*>"
+  },
+  "1158": {
+    "event_id": "E1158",
+    "template": "RDX: <*> RSI: <*> RDI: <*>"
+  },
+  "1181": {
+    "event_id": "E1181",
+    "template": "RSP: <*> EFLAGS: <*>"
+  },
+  "18": {
+    "event_id": "E18",
+    "template": "fs_client_llapi_io_write: Failed to get a write_hint cap for dribble mode, line: <*>, error: <*> (fs client: Interrupted system call)."
+  },
+  "50": {
+    "event_id": "E50",
+    "template": "obj_id: <*>, mgr_id: <*>, cb_id: <*>, cb_type: <*>, desired_cb_type: <*>, offset:<*>, length:<*>, flags:<*>, args_flags: <*>, <*>"
+  },
+  "201": {
+    "event_id": "E201",
+    "template": "panfs exception: at <*>, <*> (ptp: <*>), unknown error:(<*>), rollback: <*>"
+  },
+  "63": {
+    "event_id": "E63",
+    "template": "pan_ips: error -- cmd_destroy: destroying aborted (rc=<*> (pan_sock: timeout)) command <*> (<*>)"
+  },
+  "51": {
+    "event_id": "E51",
+    "template": "pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=<*> (pan_sock: timeout)) command <*>"
+  },
+  "74": {
+    "event_id": "E74",
+    "template": "pan_ips: error -- worker initiator write callback, <*> (pan_sock: timeout), err_loc=<*>, <*>"
+  },
+  "544": {
+    "event_id": "E544",
+    "template": "recv_rply: can't decode RPC message!"
+  },
+  "437": {
+    "event_id": "E437",
+    "template": "[CONF]: [super]: config snmp-server host <*>"
+  },
+  "148": {
+    "event_id": "E148",
+    "template": "[CONF]: [super]: config snmp-server enable traps authentication <*>"
+  },
+  "55": {
+    "event_id": "E55",
+    "template": "<*> error (device <*>): read_inode_bitmap: Cannot read inode bitmap - block_group = <*>, inode_bitmap = <*>"
+  },
+  "634": {
+    "event_id": "E634",
+    "template": "Lustre: <*>:(<*>) <*>: connection lost to <*>"
+  },
+  "16": {
+    "event_id": "E16",
+    "template": "LustreError: <*> ### lock timed out (enqueued <*> ago), entering recovery for <*> ns: <*> lock: <*> lrc: <*> mode: <*> res: <*> rrc: <*> type: <*> flags: <*> remote: <*> expref: <*> pid: <*>"
+  },
+  "22": {
+    "event_id": "E22",
+    "template": "LustreError: Connection to service <*> via nid <*> was lost; in progress operations using this service <*> wait for recovery to complete."
+  },
+  "312": {
+    "event_id": "E312",
+    "template": "Lustre: Connection restored to service <*> using nid <*>."
+  },
+  "141": {
+    "event_id": "E141",
+    "template": "dcdbas device driver build failed for kernel <*>. Check <*> for build error."
+  },
+  "1183": {
+    "event_id": "E1183",
+    "template": "FATAL state"
+  }
+}

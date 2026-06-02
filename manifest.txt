@@ -1,0 +1,16 @@
+S0.txt                    - Trained model: joint probability distribution P(s0) over initial template states
+S0S1.txt                  - Trained model: joint probability distribution P(s0, s1) over 2-state template sequences
+S0S1S2.txt                - Trained model: joint probability distribution P(s0, s1, s2) over 3-state template sequences
+tbird2_vocab_v2.txt       - Template vocabulary: mapping of template ID (0-1297) to event ID and regex template string
+tbird2_states.txt         - State flag vocabulary: mapping of state flag integer (0-33) to anomaly label string
+validation_results.txt    - Validation output: hyperparameter sweep results, selected threshold, and per-stratum metrics
+test_results.txt          - Test output: final anomaly detection and next-state prediction evaluation metrics
+split_segments.txt        - Script: splits raw Thunderbird2 log file into 10 equal chronological segments for analysis
+merge_templates.txt       - Script: merges augmented log templates into the base Loghub template CSV
+ingest_vectorize_v6.txt   - Script: parses raw log file and vectorizes each line as (state_flag, template_id) pair
+batch_and_partition.txt   - Script: groups vectorized lines into 300-line batches and stratified train/val/test partitions
+model_class.txt           - Class definition: MarkovTrainingLessNaive second-order Markov chain training implementation
+train.txt                 - Script: trains the Markov chain model on the full training partition and saves weight files
+data.txt                  - Script: inference-time model loading and helper functions for evaluation
+validate_v3.txt           - Script: hyperparameter selection on validation set including epsilon and aggregation method sweep
+test.txt                  - Script: final evaluation on test set including anomaly detection and next-state prediction
